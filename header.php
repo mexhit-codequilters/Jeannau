@@ -133,7 +133,7 @@
                 </div>
                 <ul class="nav">
                     <li><a href="/">HOME</a></li>
-                    <li><a href="#" aria-expanded="false" aria-controls="nav-brand" class="js-menu ">ABOUT US</a></li>
+                    <li><a href="/about-us" aria-expanded="false" aria-controls="nav-brand" class="js-menu ">ABOUT US</a></li>
                    <li> <a class="resolve-wp" data-slug="contact-us" href="/contact-us">CONTACT US</a> </li>
 
   <a class="resolve-wp" data-slug="powerboats" href="/jeanneau-lite-theme/page-powerboats.php">MOTORBOATS</a>

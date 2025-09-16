@@ -3,11 +3,29 @@
  * Template Name: Contact Us (Simple)
  */
 get_header();
+$contact_status = isset($_GET['contact_status']) ? $_GET['contact_status'] : '';
+if ($contact_status): ?>
+  <div style="text-align: center; padding: 15px; margin: 20px; border-radius: 5px;">
+    <?php if ($contact_status === 'ok'): ?>
+      <div style="background: #d4edda; color: #155724; border: 1px solid #c3e6cb; padding: 10px;">
+        <strong>Success!</strong> Your message has been sent successfully. We'll contact you soon.
+      </div>
+    <?php elseif ($contact_status === 'nonce_fail'): ?>
+      <div style="background: #f8d7da; color: #721c24; border: 1px solid #f1aeb5; padding: 10px;">
+        <strong>Error!</strong> Security check failed. Please try again.
+      </div>
+    <?php elseif ($contact_status === 'db_error'): ?>
+      <div style="background: #f8d7da; color: #721c24; border: 1px solid #f1aeb5; padding: 10px;">
+        <strong>Error!</strong> There was a problem saving your message. Please try again.
+      </div>
+    <?php endif; ?>
+  </div>
+<?php endif;
 ?>
 
 <main id="primary" class="site-main">
   <section class="container-fluid contact" id="contact-form">
-    <img src="https://www.jeanneau.com/images/jeanneau-white-small.svg" alt="jeanneau logo" />
+    <img src="https://www.jeanneau.com/images/jeanneau-white-small.svg" />
 
     <div class="agency-form">
       <a href="" id="form" class="anchor"></a>
@@ -169,13 +187,33 @@ get_header();
                 <div class="col-sm-4 col-md-offset-2">
                   <div class="form-group">
                     <label for="model_contact_agency">Dealer</label>
-                    <select id="model_contact_agency" style="width:100%;" class="form-control"></select>
+                    <select id="model_contact_agency" style="width:100%;" class="form-control">
+                      <option value="">Select a dealer...</option>
+                      <option value="1">Marina Blue Coast</option>
+                      <option value="2">Atlantic Boat Center</option>
+                      <option value="3">Mediterranean Yachts</option>
+                      <option value="4">Adriatic Marine</option>
+                      <option value="5">Barcelona Nautical</option>
+                      <option value="6">Miami Boat Sales</option>
+                      <option value="7">San Diego Marine</option>
+                      <option value="8">Thames Boating</option>
+                    </select>
                   </div>
                 </div>
                 <div class="col-sm-4">
                   <div class="form-group">
                     <label for="model_contact_city">City/State/Country</label>
-                    <select id="model_contact_city" style="width:100%;" class="form-control"></select>
+                    <select id="model_contact_city" style="width:100%;" class="form-control">
+                      <option value="">Select a location...</option>
+                      <option value="nice-fr">Nice, France</option>
+                      <option value="larochelle-fr">La Rochelle, France</option>
+                      <option value="marseille-fr">Marseille, France</option>
+                      <option value="split-hr">Split, Croatia</option>
+                      <option value="barcelona-es">Barcelona, Spain</option>
+                      <option value="miami-us">Miami, USA</option>
+                      <option value="sandiego-us">San Diego, USA</option>
+                      <option value="london-uk">London, UK</option>
+                    </select>
                   </div>
                 </div>
               </div>
@@ -340,6 +378,78 @@ get_header();
         e.preventDefault();
         show('#js-collapse-agency');
       });
+    }
+  })();
+</script>
+
+<script>
+  (function() {
+    function show(stepId) {
+      document.querySelectorAll('.step-panel').forEach(p => p.style.display = 'none');
+      var el = document.querySelector(stepId);
+      if (el) el.style.display = 'block';
+
+      // Update active tab classes
+      document.querySelectorAll('.links-collapse .nav-link').forEach(a => a.classList.remove('active'));
+      var tab = document.querySelector('.links-collapse .nav-link[href="' + stepId + '"]');
+      if (tab) tab.classList.add('active');
+    }
+
+    // Click handlers on the tabs
+    document.querySelectorAll('.links-collapse .nav-link').forEach(a => {
+      a.addEventListener('click', function(e) {
+        e.preventDefault();
+        show(this.getAttribute('href'));
+      });
+    });
+
+    // "Continue" button in step 1
+    var cont = document.querySelector('[data-step-go="agency"]');
+    if (cont) {
+      cont.addEventListener('click', function(e) {
+        e.preventDefault();
+        show('#js-collapse-agency');
+      });
+    }
+
+    // Form validation before submission
+    var form = document.getElementById('model_contact');
+    if (form) {
+      form.addEventListener('submit', function(e) {
+        var requiredFields = form.querySelectorAll('[required]');
+        var isValid = true;
+        
+        requiredFields.forEach(function(field) {
+          if (!field.value.trim()) {
+            field.style.borderColor = '#dc3545';
+            isValid = false;
+          } else {
+            field.style.borderColor = '';
+          }
+        });
+        
+        if (!isValid) {
+          e.preventDefault();
+          alert('Please fill in all required fields.');
+          return false;
+        }
+        
+        // Show loading state
+        var submitBtn = form.querySelector('button[type="submit"]');
+        if (submitBtn) {
+          submitBtn.innerHTML = 'Sending...';
+          submitBtn.disabled = true;
+        }
+      });
+    }
+
+    // Clear URL parameters after showing status message
+    if (window.location.search.includes('contact_status')) {
+      setTimeout(function() {
+        if (history.replaceState) {
+          history.replaceState(null, null, window.location.pathname);
+        }
+      }, 5000);
     }
   })();
 </script>

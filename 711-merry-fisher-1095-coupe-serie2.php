@@ -5,6 +5,79 @@
 get_header();
 ?>
 
+<script>
+// Anti-loop protection - add this right after get_header()
+(function() {
+    'use strict';
+    
+    // Prevent any automatic redirects or reloads
+    let reloadCount = parseInt(sessionStorage.getItem('pageReloadCount') || '0');
+    const currentUrl = window.location.href;
+    const lastUrl = sessionStorage.getItem('lastPageUrl');
+    
+    // If same URL loaded more than 2 times, block further reloads
+    if (currentUrl === lastUrl) {
+        reloadCount++;
+        if (reloadCount > 2) {
+            console.warn('Reload loop detected and blocked');
+            // Block all redirects and reloads
+            window.location.assign = function() { console.warn('Redirect blocked'); };
+            window.location.replace = function() { console.warn('Replace blocked'); };
+            window.location.reload = function() { console.warn('Reload blocked'); };
+            window.location.href = currentUrl; // Lock the URL
+            
+            // Remove any problematic event listeners
+            window.addEventListener('beforeunload', function(e) {
+                e.preventDefault();
+                return false;
+            });
+            
+            sessionStorage.setItem('pageReloadCount', '999'); // Mark as blocked
+            return;
+        }
+    } else {
+        reloadCount = 1;
+    }
+    
+    sessionStorage.setItem('pageReloadCount', reloadCount.toString());
+    sessionStorage.setItem('lastPageUrl', currentUrl);
+    
+    // Override problematic functions that might cause loops
+    const originalSetTimeout = window.setTimeout;
+    window.setTimeout = function(callback, delay) {
+        // Block any setTimeout that tries to reload/redirect
+        const callbackStr = callback.toString();
+        if (callbackStr.includes('location') || callbackStr.includes('reload') || callbackStr.includes('href')) {
+            console.warn('Blocking potentially problematic setTimeout');
+            return;
+        }
+        return originalSetTimeout.apply(this, arguments);
+    };
+    
+    // Block history manipulation that might cause loops
+    const originalPushState = history.pushState;
+    const originalReplaceState = history.replaceState;
+    
+    history.pushState = function(state, title, url) {
+        if (url === window.location.pathname || url === window.location.href) {
+            console.warn('Blocked same-page pushState');
+            return;
+        }
+        return originalPushState.apply(this, arguments);
+    };
+    
+    history.replaceState = function(state, title, url) {
+        if (url === window.location.pathname || url === window.location.href) {
+            console.warn('Blocked same-page replaceState');
+            return;
+        }
+        return originalReplaceState.apply(this, arguments);
+    };
+    
+    console.log('Anti-loop protection active. Reload count:', reloadCount);
+})();
+</script>
+
 <main class="">
     <a id="content" tabindex="-1"></a>
         <div class="model-show">
@@ -479,7 +552,11 @@ Views</a>
          data-dismiss="I AGREE"></div>
 
 
-    <script src="/build/runtime.32cc791b.js" defer></script><script src="/build/691.570663c4.js" defer></script><script src="/build/268.9a434bd2.js" defer></script><script src="/build/732.a73f4830.js" defer></script><script src="/build/app.bab1e4dd.js" defer></script>
+<script src="js/runtime.32cc791b.js" defer></script>
+<script src="js/691.570663c4.js" defer></script>
+<script src="js/268.9a434bd2.js" defer></script>
+<script src="js/732.a73f4830.js" defer></script>
+<script src="js/app.bab1e4dd.js" defer></script>
 </body>
 </html>
 <?php

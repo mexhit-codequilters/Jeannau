@@ -310,13 +310,11 @@ get_header(); ?>
          data-dismiss="I AGREE"></div>
 
 
-    <script src="https://www.jeanneau.com/build/runtime.32cc791b.js" defer></script>
-    <script src="https://www.jeanneau.com/build/691.570663c4.js" defer>
-
-    </script><script src="https://www.jeanneau.com/build/268.9a434bd2.js" defer>
-
-    </script><script src="https://www.jeanneau.com/build/732.a73f4830.js" defer></script>
-    <script src="https://www.jeanneau.com/build/app.bab1e4dd.js" defer></script>
+<script src="js/runtime.32cc791b.js" defer></script>
+<script src="js/691.570663c4.js" defer></script>
+<script src="js/268.9a434bd2.js" defer></script>
+<script src="js/732.a73f4830.js" defer></script>
+<script src="js/app.bab1e4dd.js" defer></script>
 </body>
 </html>
 

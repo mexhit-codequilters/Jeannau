@@ -131,6 +131,7 @@
         var base_path = '';
     </script>
 
+
     <script>
     window.dataLayer = window.dataLayer || [];
     dataLayer.push({
@@ -179,8 +180,8 @@
             </div>
 
             <div class="brand">
-                                    <h1><a href="index.php">Premium powerboat and sailboat builder</a></h1>
-                            </div>
+                    <h1><a href="">Premium powerboat and sailboat builder</a></h1>
+            </div>
 
             <div class="menu-position right">
                                                 <div>
@@ -194,7 +195,7 @@
             </div>
         </div>
 
-                <div class="menu hide ">
+                <div class="menu hide">
             <div class="menu-list">
                 <div class="close-menu square-menu js-toggle-menu">
                     <i class="icon icon-close"></i>
@@ -1132,3 +1133,5 @@
 <div class="modal fade in" id="navbar-region" tabindex="-1" role="dialog"></div>
 
     </header>
+
+    

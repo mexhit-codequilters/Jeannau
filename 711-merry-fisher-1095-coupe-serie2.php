@@ -2,7 +2,7 @@
 
 <?php
 /**
- * Template Name: Merry Fisher 1095 Coupé Serie2
+ * Template Name: Merry Fisher 1095 Cs2
  */
 get_header();
 ?>

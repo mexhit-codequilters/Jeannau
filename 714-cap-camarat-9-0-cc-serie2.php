@@ -5,7 +5,91 @@
  * Template Name: Cap Camarat 9.0 cc
  */
 get_header();
-?>
+?><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Cap Camarat 9.0 CC Serie2 | Jeanneau Boats</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The Cap Camarat 9.0 CC Series 2 embodies a contemporary vision of fun at sea: an intuitive, high-performance, family day boat enabling you to make the most of every moment, whether for a sporty outing, an afternoon of relaxation, or an improvised getaway.">
+    <meta property="og:title" content="Cap Camarat 9.0 CC Serie2 | Jeanneau Boats">
+    <meta property="og:description" content="The Cap Camarat 9.0 CC Series 2 embodies a contemporary vision of fun at sea: an intuitive, high-performance, family day boat enabling you to make the most of every moment, whether for a sporty outing, an afternoon of relaxation, or an improvised getaway.">
+    
+            <meta property="og:url" content="https://www.jeanneau.com/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2">
+        <link rel="canonical" href="https://www.jeanneau.com/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2"/>
+                <meta property="og:type" content="article">
+        <meta property="og:image" content="    ">
+        <link rel="icon" type="image/x-icon" href="https://www.jeanneau.com//build/images/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.jeanneau.com//build/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.jeanneau.com/build/icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.jeanneau.com/build/icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.jeanneau.com//build/icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.jeanneau.com/build/icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.jeanneau.com/build/icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.jeanneau.com/build/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.jeanneau.com/build/icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.jeanneau.com//build/icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://www.jeanneau.com/build/icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.jeanneau.com/build/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://www.jeanneau.com/build/icons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.jeanneau.com/build/icons/favicon-16x16.png">
+                            <link rel="alternate" href="https://www.jeanneau.com/es-mx/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="es-MX" />
+                    <link rel="alternate" href="https://www.jeanneau.com/pt-br/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="pt-BR" />
+                    <link rel="alternate" href="https://www.jeanneau.com/en-au/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="en-AU" />
+                    <link rel="alternate" href="https://www.jeanneau.com/en-hk/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="en-HK" />
+                    <link rel="alternate" href="https://www.jeanneau.com/zh-hans/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="zh-Hans" />
+                    <link rel="alternate" href="https://www.jeanneau.com/it/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="it" />
+                    <link rel="alternate" href="https://www.jeanneau.com/tr/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="tr" />
+                    <link rel="alternate" href="https://www.jeanneau.com/fr/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="fr" />
+                    <link rel="alternate" href="https://www.jeanneau.com/de/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="de" />
+                    <link rel="alternate" href="https://www.jeanneau.com/es/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="es" />
+                    <link rel="alternate" href="https://www.jeanneau.com/pt/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="pt" />
+                    <link rel="alternate" href="https://www.jeanneau.com/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" hreflang="en" />
+    
+    <link rel="manifest" href="https://www.jeanneau.com/build/icons/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/build/icons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="google-site-verification" content="5aJwrBzxdYTX4ala-6DJ_MxbC6UI39OSALxlDtx8dK8"/>
+            <script src="https://www.hCaptcha.com/1/api.js" async defer></script>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Jeanneau",
+            "url": "https://www.jeanneau.com/"
+        }
+    </script>
+            <link rel="stylesheet" href="https://www.jeanneau.com/build/691.ff3cfb14.css"><link rel="stylesheet" href="https://www.jeanneau.com/build/268.be368f8d.css"><link rel="stylesheet" href="https://www.jeanneau.com/build/app.d0b73c3c.css">
+        <script>
+        var language = 'en';
+        var locale = 'en';
+        var base_path = '';
+    </script>
+
+        <script>
+    window.dataLayer = window.dataLayer || [];
+    dataLayer.push({
+            "event" : "dataLayer.ready",
+            "page" : {
+                "category" : "model",
+            },
+            "boat" : {
+                "model" : ["9-0-cc-serie2"],
+                "range" : ["cap-camarat"],
+                "segment" : ["outboard"],
+                "business_unit" : ["dayboating"],
+            },
+        });
+</script>    <!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://api-data-www.jeanneau.com/g42lgim247i1sg7.js?aw='+i.replace(/^GTM-/, '')+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-586QHN4');</script><!-- End Google Tag Manager --></head>
+<body>
+<noscript><iframe src="https://api-data-www.jeanneau.com/ns.html?id=GTM-586QHN4"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <main class="">
     <a id="content" tabindex="-1"></a>
         <div class="model-show">
@@ -13,7 +97,8 @@ get_header();
             <div class="box head model model-header">
                 <div id="js-model-header">
                                             <div class="slide">
-                                                            <img src="https://app.jeanneau.com/images/jZIaEwbeYqCH.jpg" alt=" 31062" class="img-responsive mobile">
+                                                            <img src="https://app.jeanneau.com/uploads/media/image/exterior/981ad051e08d90191d2c95f7b9ef02b6.jpg" alt=" 31061"
+                                     class="img-responsive ">
                                                     </div>
                                     </div>
                 <div class="header-title">
@@ -36,7 +121,8 @@ get_header();
             <div class="col-sm-1 item-nav d-sm-none">
                             </div>
                             <div class="col-xs-6 col-sm-2 item-nav item-nav-blue get-offer">
-                    <a href="#contact-form" class="scrolltoAnchor" title="Contact our service teams">
+                    <a href="#contact-form" class="scrolltoAnchor"
+                       title="Contact our service teams">
                         <i class="icon icon-contact"></i> Request  an offer
                     </a>
                 </div>
@@ -45,26 +131,26 @@ get_header();
                     </div>
 
                 <div class="container-fluid no-margin-bottom">
-    <ul itemscope="" itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
-        <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+    <ul itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
             <a href="/" itemprop="item"><span itemprop="name">Home</span></a>
-            <meta itemprop="position" content="1">
+            <meta itemprop="position" content="1" />
         </li>
-                    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                 <a href="/boats/powerboat" itemprop="item"><span itemprop="name">Motorboats</span></a>
-                <meta itemprop="position" content="2">
+                <meta itemprop="position" content="2" />
             </li>
-                    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                 <a href="/boats/powerboat/39-cap-camarat" itemprop="item"><span itemprop="name">Cap Camarat</span></a>
-                <meta itemprop="position" content="3">
+                <meta itemprop="position" content="3" />
             </li>
-                    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                 <a href="/boats/powerboat/5-cap-camarat-center-console" itemprop="item"><span itemprop="name">Cap Camarat Center Console</span></a>
-                <meta itemprop="position" content="4">
+                <meta itemprop="position" content="4" />
             </li>
-                    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                 <a href="/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2" itemprop="item"><span itemprop="name">Cap Camarat 9.0 CC Serie2</span></a>
-                <meta itemprop="position" content="5">
+                <meta itemprop="position" content="5" />
             </li>
             </ul>
 </div>
@@ -83,8 +169,15 @@ get_header();
                                     </div>
                 <div class="col-xs-12 col-sm-4">
                                                             <div class="documents">
-                                                                    <a href="https://app.jeanneau.com/viewer/brochure/31243" target="_blank" title="View the Brochure (Opens in a new window)" download="32_p._Cap_Camarat_2026_PDF_BD.pdf" class="square  a_class" id="a_id"><i class="icon icon-visualiser-brochure"></i>View the Brochure</a>
-                                                        <a class="square" href="/contact?brochures%5B%5D=5#brochure-form"><i class="icon icon-commander-brochure"></i>Request the Brochure
+                                                                    <a href="https://app.jeanneau.com/viewer/brochure/31243"
+           target="_blank"
+           title="View the Brochure (Opens in a new window)"
+           download="32_p._Cap_Camarat_2026_PDF_BD.pdf"
+           class="square  a_class"
+           id="a_id"        ><i class="icon icon-visualiser-brochure"></i>View the Brochure</a>
+                                                        <a class="square"
+                               href="/contact?brochures%5B%5D=5#brochure-form"><i
+                                        class="icon icon-commander-brochure"></i>Request the Brochure
                             </a>
                                             </div>
                 </div>
@@ -96,7 +189,8 @@ get_header();
                                                                 
                                                                         <div class="block">
         <div class="col-xs-12 image-block no-padding d-sm-none">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/images/0xMcoGsCmtZj.jpg')" title="Cap Camarat 9.0 CC Serie2 - Cruising Experience at the Heart of Your Agenda">
+            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/0ea6c53a800145ce67213c3f661c8a16.jpg')"
+                 title="Cap Camarat 9.0 CC Serie2 - Cruising Experience at the Heart of Your Agenda">
             </div>
         </div>
         <div class="col-xs-12 col-sm-6 content-block">
@@ -105,7 +199,8 @@ get_header();
             
         </div>
         <div class="col-sm-6 image-block no-padding d-sm">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/images/0xMcoGsCmtZj.jpg')" title="Cap Camarat 9.0 CC Serie2 - Cruising Experience at the Heart of Your Agenda">
+            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/0ea6c53a800145ce67213c3f661c8a16.jpg')"
+                 title="Cap Camarat 9.0 CC Serie2 - Cruising Experience at the Heart of Your Agenda">
             </div>
         </div>
     </div>
@@ -113,7 +208,8 @@ get_header();
                                                                 
                                                                             <div class="block">
         <div class="col-xs-12 col-sm-6 image-block no-padding">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/images/syN8HZJK24mv.jpg')" title="Cap Camarat 9.0 CC Serie2 - Life Onboard Turned Toward the Exterior">
+            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/d8f0b8af77eef9ea8f451f088982739e.jpg')"
+                 title="Cap Camarat 9.0 CC Serie2 - Life Onboard Turned Toward the Exterior">
             </div>
         </div>
         <div class="col-xs-12 col-sm-6 content-block even">
@@ -126,16 +222,18 @@ get_header();
                                                                 
                                                                         <div class="block">
         <div class="col-xs-12 image-block no-padding d-sm-none">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/images/JLorNXePJ0nk.jpg')" title="Cap Camarat 9.0 CC Serie2 - A Practical, Optimised Interior Layout">
+            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/a30802d2f7cdab6e8d47afb2133c685f.jpg')"
+                 title="Cap Camarat 9.0 CC Serie2 - A Practical, Optimised Interior Layout">
             </div>
         </div>
         <div class="col-xs-12 col-sm-6 content-block">
             <h3 class="white">A Practical, Optimised Interior Layout</h3>
-            <div class="text-content white"><p>On the interior, the layout combines<strong> simplicity and efficiency</strong>, with<strong> well-ventilated living spaces and optimised storage</strong>.</p><p>The <strong>companionway’s wide steps</strong> provide<strong> easy, safe access to the interior</strong>.</p><p>The layout and furnishings feature<strong> a wide range of functionality</strong>.�</p><p><strong>Options may be added</strong> for an even more comfortable life on bord: <strong>shower compartment</strong>, <strong>separate head with plexiglass partition</strong>, <strong>upholstery pack with mattress aft</strong>…�</p><p>The cabin of the <strong>Cap Camarat 9.0 CC Series 2</strong> is truly<strong> a cosy nest</strong>, ideal for a refreshing siesta, for little ones or adults, making this boat your <strong>perfect partner for a day at sea</strong>.</p></div>
+            <div class="text-content white"><p>On the interior, the layout combines<strong> simplicity and efficiency</strong>, with<strong> well-ventilated living spaces and optimised storage</strong>.</p><p>The <strong>companionway’s wide steps</strong> provide<strong> easy, safe access to the interior</strong>.</p><p>The layout and furnishings feature<strong> a wide range of functionality</strong>.&nbsp;</p><p><strong>Options may be added</strong> for an even more comfortable life on bord: <strong>shower compartment</strong>, <strong>separate head with plexiglass partition</strong>, <strong>upholstery pack with mattress aft</strong>…&nbsp;</p><p>The cabin of the <strong>Cap Camarat 9.0 CC Series 2</strong> is truly<strong> a cosy nest</strong>, ideal for a refreshing siesta, for little ones or adults, making this boat your <strong>perfect partner for a day at sea</strong>.</p></div>
             
         </div>
         <div class="col-sm-6 image-block no-padding d-sm">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/images/JLorNXePJ0nk.jpg')" title="Cap Camarat 9.0 CC Serie2 - A Practical, Optimised Interior Layout">
+            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/a30802d2f7cdab6e8d47afb2133c685f.jpg')"
+                 title="Cap Camarat 9.0 CC Serie2 - A Practical, Optimised Interior Layout">
             </div>
         </div>
     </div>
@@ -153,12 +251,18 @@ get_header();
                     <div id="gallery" aria-multiselectable="true" role="tablist">
                         <ul class="links-collapse nav justify-content-center">
                                                             <li class="nav-item">
-                                    <a class="nav-link active js-link-exterior" data-toggle="collapse" href="#js-collapse-gallery-exterior" role="button" aria-expanded="true" data-parent="#gallery" aria-controls="js-collapse-gallery-exterior">Exterior
+                                    <a class="nav-link active js-link-exterior" data-toggle="collapse"
+                                       href="#js-collapse-gallery-exterior" role="button" aria-expanded="true"
+                                       data-parent="#gallery"
+                                       aria-controls="js-collapse-gallery-exterior">Exterior
 Views</a>
                                 </li>
                             
                                                             <li class="nav-item">
-                                    <a class="nav-link js-link-interior" data-toggle="collapse" href="#js-collapse-gallery-interior" role="button" aria-expanded="false" data-parent="#gallery" aria-controls="js-collapse-gallery-interior">Interior
+                                    <a class="nav-link js-link-interior" data-toggle="collapse"
+                                       href="#js-collapse-gallery-interior"
+                                       role="button" aria-expanded="false" data-parent="#gallery"
+                                       aria-controls="js-collapse-gallery-interior">Interior
 Views</a>
                                 </li>
                                                     </ul>
@@ -166,48 +270,78 @@ Views</a>
                                                     <div id="js-collapse-gallery-exterior" class="collapse in">
                                 <div class="gallery-exterior">
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/caa40b62eb7349a8c8d2fbfd06c88a2e.jpg" class="gallery-show" title="Cap Camarat 9.0 CC Serie2" id="gallery-exterior_1">
-                                                <img class="lazy" src="https://app.jeanneau.com/images/TRzPixQtBCcu.jpg" data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/caa40b62eb7349a8c8d2fbfd06c88a2e.jpg" alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31089">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/caa40b62eb7349a8c8d2fbfd06c88a2e.jpg" class="gallery-show"
+                                               title="Cap Camarat 9.0 CC Serie2"
+                                               id="gallery-exterior_1">
+                                                <img class="lazy"
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/caa40b62eb7349a8c8d2fbfd06c88a2e.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/caa40b62eb7349a8c8d2fbfd06c88a2e.jpg"
+                                                     alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31089"/>
                                                 <div class="hover-image">
                                                     <span></span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/722a5d6ed13195681e260040b07d14b0.jpg" class="gallery-show" title="Cap Camarat 9.0 CC Serie2" id="gallery-exterior_2">
-                                                <img class="lazy" src="https://app.jeanneau.com/images/YrPWiuMaCSXM.jpg" data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/722a5d6ed13195681e260040b07d14b0.jpg" alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31093">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/722a5d6ed13195681e260040b07d14b0.jpg" class="gallery-show"
+                                               title="Cap Camarat 9.0 CC Serie2"
+                                               id="gallery-exterior_2">
+                                                <img class="lazy"
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/722a5d6ed13195681e260040b07d14b0.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/722a5d6ed13195681e260040b07d14b0.jpg"
+                                                     alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31093"/>
                                                 <div class="hover-image">
                                                     <span></span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/f9df9df105344633b40239c5cf05734c.jpg" class="gallery-show" title="Cap Camarat 9.0 CC Serie2" id="gallery-exterior_3">
-                                                <img class="lazy" src="https://app.jeanneau.com/images/JcJ0vkcxMLb9.jpg" data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/f9df9df105344633b40239c5cf05734c.jpg" alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31094">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/f9df9df105344633b40239c5cf05734c.jpg" class="gallery-show"
+                                               title="Cap Camarat 9.0 CC Serie2"
+                                               id="gallery-exterior_3">
+                                                <img class="lazy"
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/f9df9df105344633b40239c5cf05734c.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/f9df9df105344633b40239c5cf05734c.jpg"
+                                                     alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31094"/>
                                                 <div class="hover-image">
                                                     <span></span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/edec87dc2a5615f009a650acedfffedc.jpg" class="gallery-show" title="Cap Camarat 9.0 CC Serie2" id="gallery-exterior_4">
-                                                <img class="lazy" src="https://app.jeanneau.com/images/FsCeKVCT0Wm7.jpg" data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/edec87dc2a5615f009a650acedfffedc.jpg" alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31095">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/edec87dc2a5615f009a650acedfffedc.jpg" class="gallery-show"
+                                               title="Cap Camarat 9.0 CC Serie2"
+                                               id="gallery-exterior_4">
+                                                <img class="lazy"
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/edec87dc2a5615f009a650acedfffedc.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/edec87dc2a5615f009a650acedfffedc.jpg"
+                                                     alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31095"/>
                                                 <div class="hover-image">
                                                     <span></span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/631af6e0e31a8837b009f15b0683a8ee.png" class="gallery-show" title="Cap Camarat 9.0 CC Serie2" id="gallery-exterior_5">
-                                                <img class="lazy" src="images/mBApcT0l9eNa.png" data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/631af6e0e31a8837b009f15b0683a8ee.png" alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31213">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/631af6e0e31a8837b009f15b0683a8ee.png" class="gallery-show"
+                                               title="Cap Camarat 9.0 CC Serie2"
+                                               id="gallery-exterior_5">
+                                                <img class="lazy"
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/631af6e0e31a8837b009f15b0683a8ee.png"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/631af6e0e31a8837b009f15b0683a8ee.png"
+                                                     alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31213"/>
                                                 <div class="hover-image">
                                                     <span></span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/de62ac2603e1facaeceed57e7b6c88ba.png" class="gallery-show" title="Cap Camarat 9.0 CC Serie2" id="gallery-exterior_6">
-                                                <img class="lazy" src="https://app.jeanneau.com/images/W2lUyn3nJWd7.png" data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/de62ac2603e1facaeceed57e7b6c88ba.png" alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31214">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/de62ac2603e1facaeceed57e7b6c88ba.png" class="gallery-show"
+                                               title="Cap Camarat 9.0 CC Serie2"
+                                               id="gallery-exterior_6">
+                                                <img class="lazy"
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/de62ac2603e1facaeceed57e7b6c88ba.png"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/de62ac2603e1facaeceed57e7b6c88ba.png"
+                                                     alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau 31214"/>
                                                 <div class="hover-image">
                                                     <span></span>
                                                 </div>
@@ -220,40 +354,65 @@ Views</a>
                                                     <div id="js-collapse-gallery-interior" class="collapse">
                                 <div class="gallery-interior">
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/2c628916d2e130eb697f7cdd9632f6a6.jpg" class="gallery-show" title="Cap Camarat 9.0 CC Serie2" id="gallery-interior_1">
-                                                <img aria-hidden="true" class="lazy" src="https://app.jeanneau.com/images/V7DXz0jDzohv.jpg" data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/2c628916d2e130eb697f7cdd9632f6a6.jpg" alt="base_alt  31092">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/2c628916d2e130eb697f7cdd9632f6a6.jpg" class="gallery-show"
+                                               title="Cap Camarat 9.0 CC Serie2"
+                                               id="gallery-interior_1">
+                                                <img aria-hidden="true" class="lazy"
+                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/2c628916d2e130eb697f7cdd9632f6a6.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/2c628916d2e130eb697f7cdd9632f6a6.jpg"
+                                                     alt="base_alt  31092"/>
                                                 <div class="hover-image">
                                                     <span></span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/ccee1aaa12a11ecf172a7dda8d992d13.jpg" class="gallery-show" title="Cap Camarat 9.0 CC Serie2" id="gallery-interior_2">
-                                                <img aria-hidden="true" class="lazy" src="https://app.jeanneau.com/images/2G00gZ4ArGWK.jpg" data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/ccee1aaa12a11ecf172a7dda8d992d13.jpg" alt="base_alt  31090">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/ccee1aaa12a11ecf172a7dda8d992d13.jpg" class="gallery-show"
+                                               title="Cap Camarat 9.0 CC Serie2"
+                                               id="gallery-interior_2">
+                                                <img aria-hidden="true" class="lazy"
+                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/ccee1aaa12a11ecf172a7dda8d992d13.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/ccee1aaa12a11ecf172a7dda8d992d13.jpg"
+                                                     alt="base_alt  31090"/>
                                                 <div class="hover-image">
                                                     <span></span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/294f273236e763dc44dcdbf0ebd16ce5.jpg" class="gallery-show" title="Cap Camarat 9.0 CC Serie2" id="gallery-interior_3">
-                                                <img aria-hidden="true" class="lazy" src="https://app.jeanneau.com/images/WpcGUrbJmStE.jpg" data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/294f273236e763dc44dcdbf0ebd16ce5.jpg" alt="base_alt  31091">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/294f273236e763dc44dcdbf0ebd16ce5.jpg" class="gallery-show"
+                                               title="Cap Camarat 9.0 CC Serie2"
+                                               id="gallery-interior_3">
+                                                <img aria-hidden="true" class="lazy"
+                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/294f273236e763dc44dcdbf0ebd16ce5.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/294f273236e763dc44dcdbf0ebd16ce5.jpg"
+                                                     alt="base_alt  31091"/>
                                                 <div class="hover-image">
                                                     <span></span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/d18994b0bdc82011668b90717b891e42.jpg" class="gallery-show" title="Cap Camarat 9.0 CC Serie2" id="gallery-interior_4">
-                                                <img aria-hidden="true" class="lazy" src="https://app.jeanneau.com/images/QVxe6FIlPLB1.jpg" data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/d18994b0bdc82011668b90717b891e42.jpg" alt="base_alt  31096">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/d18994b0bdc82011668b90717b891e42.jpg" class="gallery-show"
+                                               title="Cap Camarat 9.0 CC Serie2"
+                                               id="gallery-interior_4">
+                                                <img aria-hidden="true" class="lazy"
+                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/d18994b0bdc82011668b90717b891e42.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/d18994b0bdc82011668b90717b891e42.jpg"
+                                                     alt="base_alt  31096"/>
                                                 <div class="hover-image">
                                                     <span></span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/4c0bc12dbdaf8f80459e61555cd7ae8c.jpg" class="gallery-show" title="Cap Camarat 9.0 CC Serie2" id="gallery-interior_5">
-                                                <img aria-hidden="true" class="lazy" src="https://app.jeanneau.com/images/TZDtEfA9NGHZ.jpg" data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/4c0bc12dbdaf8f80459e61555cd7ae8c.jpg" alt="base_alt  31097">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/4c0bc12dbdaf8f80459e61555cd7ae8c.jpg" class="gallery-show"
+                                               title="Cap Camarat 9.0 CC Serie2"
+                                               id="gallery-interior_5">
+                                                <img aria-hidden="true" class="lazy"
+                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/4c0bc12dbdaf8f80459e61555cd7ae8c.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/4c0bc12dbdaf8f80459e61555cd7ae8c.jpg"
+                                                     alt="base_alt  31097"/>
                                                 <div class="hover-image">
                                                     <span></span>
                                                 </div>
@@ -267,9 +426,10 @@ Views</a>
         
                             <section class="designers container-fluid">
                 <a id="designers" class="anchor"></a>
-                <h3>Architecture & design</h3>
+                <h3>Architecture &amp; design</h3>
                 <div class="designers-row">
-                                                                        <a class="designer" href="/jeanneau/designers">
+                                                                        <a class="designer"
+                               href="/jeanneau/designers">
                                 <div class="image">
                                     <div class="lazy" data-bg="https://app.jeanneau.com/uploads/boat/designer/646c8a162be1b837881548.jpg"></div>
                                 </div>
@@ -278,7 +438,8 @@ Views</a>
                                     <div class="baseline">Michael Peters Yacht Design</div>
                                                                     </div>
                             </a>
-                                                                                                <a class="designer" href="/jeanneau/designers/21-patrice-sarrazin">
+                                                                                                <a class="designer"
+                               href="/jeanneau/designers/21-patrice-sarrazin">
                                 <div class="image">
                                     <div class="lazy" data-bg="https://app.jeanneau.com/uploads/boat/designer/5773804e42f84.jpg"></div>
                                 </div>
@@ -287,7 +448,8 @@ Views</a>
                                     <div class="baseline">Sarrazin Design</div>
                                                                     </div>
                             </a>
-                                                                                                <a class="designer" href="/jeanneau/designers">
+                                                                                                <a class="designer"
+                               href="/jeanneau/designers">
                                 <div class="image">
                                     <div class="lazy" data-bg="https://app.jeanneau.com/uploads/boat/designer/6686bd866e08d356240663.png"></div>
                                 </div>
@@ -303,28 +465,40 @@ Views</a>
                 <a id="specifications" class="anchor"></a>
                 <div class="specifications">
                     <div class="specifications-first">
-                        <h3>Layouts & Specs</h3>
+                        <h3>Layouts &amp; Specs</h3>
 
                                                                             <div class="photos">
                                 <div id="js-slider-specifications">
                                                                             <div class="slide">
-                                            <a title="Cap Camarat 9.0 CC Serie2" href="https://app.jeanneau.com/uploads/media/image/layout/hd/7fb5c3beb5baf8b57727784f4ffca476.png">
-                                                <img src="https://app.jeanneau.com/images/X3SkIBqcmLAE.png" alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau  31055" class="img-responsive">
+                                            <a title="Cap Camarat 9.0 CC Serie2"
+                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/7fb5c3beb5baf8b57727784f4ffca476.png">
+                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/7fb5c3beb5baf8b57727784f4ffca476.png"
+                                                     alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau  31055"
+                                                     class="img-responsive">
                                             </a>
                                         </div>
                                                                             <div class="slide">
-                                            <a title="Cap Camarat 9.0 CC Serie2" href="https://app.jeanneau.com/uploads/media/image/layout/hd/f1d22a53f1bb5a45fb9405d37022096f.png">
-                                                <img src="https://app.jeanneau.com/images/hQLnxuSYgN8G.png" alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau  31056" class="img-responsive">
+                                            <a title="Cap Camarat 9.0 CC Serie2"
+                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/f1d22a53f1bb5a45fb9405d37022096f.png">
+                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/f1d22a53f1bb5a45fb9405d37022096f.png"
+                                                     alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau  31056"
+                                                     class="img-responsive">
                                             </a>
                                         </div>
                                                                             <div class="slide">
-                                            <a title="Cap Camarat 9.0 CC Serie2" href="https://app.jeanneau.com/uploads/media/image/layout/hd/be83718a932c7c1b6b5ddf1ebc8322ec.png">
-                                                <img src="https://app.jeanneau.com/images/68beJl6we4Sa.png" alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau  31057" class="img-responsive">
+                                            <a title="Cap Camarat 9.0 CC Serie2"
+                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/be83718a932c7c1b6b5ddf1ebc8322ec.png">
+                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/be83718a932c7c1b6b5ddf1ebc8322ec.png"
+                                                     alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau  31057"
+                                                     class="img-responsive">
                                             </a>
                                         </div>
                                                                             <div class="slide">
-                                            <a title="Cap Camarat 9.0 CC Serie2" href="https://app.jeanneau.com/uploads/media/image/layout/hd/a41ef933f926b4ca3a1fef3804432482.png">
-                                                <img src="https://app.jeanneau.com/images/f6XkQPXpJx4Y.png" alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau  31058" class="img-responsive">
+                                            <a title="Cap Camarat 9.0 CC Serie2"
+                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/a41ef933f926b4ca3a1fef3804432482.png">
+                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/a41ef933f926b4ca3a1fef3804432482.png"
+                                                     alt="Cap Camarat 9.0 CC Serie2 │ Cap Camarat Center Console of 8m │ Boat Moteurs Jeanneau  31058"
+                                                     class="img-responsive">
                                             </a>
                                         </div>
                                                                     </div>
@@ -335,17 +509,17 @@ Views</a>
                                                             <div class="value">
                                     <i class="icon icon-overall-length-powerboat"></i>
                                     <span class="title">Length overall</span>
-                                    <span class="val">8.3 m / 27'3"</span>
+                                    <span class="val">8.3 m / 27&#039;3&quot;</span>
                                 </div>
                                                                                         <div class="value">
                                     <i class="icon icon-hull-length-powerboat"></i>
                                     <span class="title">Hull length</span>
-                                    <span class="val">7.96 m / 26'1"</span>
+                                    <span class="val">7.96 m / 26&#039;1&quot;</span>
                                 </div>
                                                                                                                                                                                                                                     <div class="value">
                                     <i class="icon icon-hull-draft"></i>
                                     <span class="title">Hull Draft</span>
-                                    <span class="val">0.65 m / 2'2"</span>
+                                    <span class="val">0.65 m / 2&#039;2&quot;</span>
                                 </div>
                                                                                                                                                 <div class="value">
                                     <i class="icon icon-fuel-capacity"></i>
@@ -368,15 +542,78 @@ Views</a>
                                 </div>
                                                     </div>
                         <div class="buttons">
-                                                                        <a class="btn btn-primary" href="https://app.jeanneau.com/inventory/31130" target="_blank" title="Inventaire (Opens in a new window)" download="2025-0068_PRINT_INV_MOTEUR_2025_CAP_CAM_9.0_CC_GB_07-25.pdf">Inventaire</a>
-                                                                                        <a href="/comparator/powerboat" class="btn btn-primary">Compare</a>
+                                                                        <a class="btn btn-primary" href="https://app.jeanneau.com/inventory/31130" target="_blank"
+       title="Inventaire (Opens in a new window)"
+       download="2025-0068_PRINT_INV_MOTEUR_2025_CAP_CAM_9.0_CC_GB_07-25.pdf"
+            
+            
+    >Inventaire</a>
+                                                                                        <a href="/comparator/powerboat"
+                                   class="btn btn-primary">Compare</a>
                                                                                 </div>
                     </div>
                 </div>
             </section>
-  
         
-                
+              
+        
+                <section class="other-models container-fluid">
+                            <a id="lines" class="anchor"></a>
+                <div class="lines">
+                    <h3>explore the range</h3>
+                    <div class="row">
+                                                                                                                                        <div class="col-sm-6 col-lg-4 line">
+                                                                                                                                    <a href="/boats/powerboat/5-cap-camarat-center-console/623-cap-camarat-6-5-cc">
+                                    <div role="presentation" class="image">
+                                        <img src="https://app.jeanneau.com/uploads/boat/shape/62bac9d6ece4b340368987.png" alt="Cap Camarat 6.5 CC │ Cap Camarat Center Console of 7m │ Boat Moteurs Jeanneau" class="img-responsive">
+                                    </div>
+                                    <h4 class="name">Cap Camarat 6.5 CC</h4>
+                                                                            <div class="resume">
+                                            <p>A well balanced Center Console</p>
+                                        </div>
+                                                                        <button class="btn btn-primary">See details</button>
+                                </a>
+                            </div>
+                                                                                                                                        <div class="col-sm-6 col-lg-4 line">
+                                                                                                                                    <a href="/boats/powerboat/5-cap-camarat-center-console/668-cap-camarat-7-5-cc">
+                                    <div role="presentation" class="image">
+                                        <img src="https://app.jeanneau.com/uploads/boat/shape/62bac9f3dad94923988863.png" alt="Cap Camarat 7.5 CC │ Cap Camarat Center Console of 7m │ Boat Moteurs Jeanneau" class="img-responsive">
+                                    </div>
+                                    <h4 class="name">Cap Camarat 7.5 CC</h4>
+                                                                            <div class="resume">
+                                            <p>The perfect blend of sportiness and comfort</p>
+                                        </div>
+                                                                        <button class="btn btn-primary">See details</button>
+                                </a>
+                            </div>
+                                                                                                                                                                                                    <div class="col-sm-6 hidden-sm hidden-md col-lg-4 line">
+                                                                                                                                    <a href="/boats/powerboat/5-cap-camarat-center-console/681-cap-camarat-10-5-cc">
+                                    <div role="presentation" class="image">
+                                        <img src="https://app.jeanneau.com/uploads/boat/shape/62bd5f3f6ac81712196835.png" alt="Cap Camarat 10.5 CC │ Cap Camarat Center Console of 11m │ Boat Moteurs Jeanneau" class="img-responsive">
+                                    </div>
+                                    <h4 class="name">Cap Camarat 10.5 CC</h4>
+                                                                            <div class="resume">
+                                            <p>Fun for All!</p>
+                                        </div>
+                                                                        <button class="btn btn-primary">See details</button>
+                                </a>
+                            </div>
+                                            </div>
+                </div>
+                    </section>
+    </div>
+</main>
+
+
+    <div id="cookieconsent-i18n"
+         data-message="By continuing your visit on this website, you agree to the use of cookies to enhance your browsing experience and to generate website traffic statistics."
+         data-dismiss="I AGREE"></div>
+
+
+    <script src="https://www.jeanneau.com/build/runtime.32cc791b.js" defer></script><script src="https://www.jeanneau.com/build/691.570663c4.js" defer></script><script src="https://www.jeanneau.com/build/268.9a434bd2.js" defer></script><script src="https://www.jeanneau.com/build/732.a73f4830.js" defer></script><script src="https://www.jeanneau.com/build/app.bab1e4dd.js" defer></script>
+</body>
+</html>
+
 
 <?php get_footer(); ?>
                 

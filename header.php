@@ -7,6 +7,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="preload" href="<?php echo $theme_uri; ?>/assets/fonts/MyFont-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff2" as="font" type="font/woff2" crossorigin>
+
+<style>
+  @font-face {
+    font-family: 'MyFont';
+    src: url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Regular.woff2') format('woff2'),
+         url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'MyFont';
+    src: url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff2') format('woff2'),
+         url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  body {
+    font-family: 'MyFont', sans-serif;
+  }
+</style>
     <meta charset="UTF-8"/>
     <title>Powerboats and sailboats for sale | Jeanneau</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -531,7 +557,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                                                           <a class="resolve-wp" data-slug="681-cap-camarat-10-5-cc" href="681-cap-camarat-10-5-cc">
+                                                                           <a class="resolve-wp" data-slug="681-cap-camarat-10-5-cc" href="/681-cap-camarat-10-5-cc">
                                             <div class="boat">
                                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/62bd5f3f6ac81712196835.png" alt="Cap Camarat 10.5 CC">
                                                                                                 <div>

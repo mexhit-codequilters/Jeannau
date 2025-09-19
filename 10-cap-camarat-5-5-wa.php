@@ -1,95 +1,10 @@
-
-
 <?php
 /**
  * Template Name: 10-cap-camarat-5-5-wa
  */
 get_header();
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8"/>
-    <title>Cap Camarat 5.5 WA | Jeanneau Boats</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The Cap Camarat 5.5 WA is the ideal boat for exploring the coastline on the spur of the moment, heading out with the wind in your hair to take advantage of a beautiful sunny day with family, as a couple, or just on your own.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
-    <meta property="og:title" content="Cap Camarat 5.5 WA | Jeanneau Boats">
-    <meta property="og:description" content="The Cap Camarat 5.5 WA is the ideal boat for exploring the coastline on the spur of the moment, heading out with the wind in your hair to take advantage of a beautiful sunny day with family, as a couple, or just on your own.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
-    
-            <meta property="og:url" content="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa">
-        <link rel="canonical" href="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa"/>
-                <meta property="og:type" content="article">
-        <meta property="og:image" content="    https://www.jeanneau.com/images/thumbs/open_graph_cdn/https---app.jeanneau.com/uploads/boat/cover/63121f90c1281011563747.jpg">
-        <link rel="icon" type="image/x-icon" href="https://www.jeanneau.com/build/images/favicon.ico">
-    <link rel="apple-touch-icon" sizes="57x57" href="https://www.jeanneau.com/build/icons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="https://www.jeanneau.com/build/icons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="https://www.jeanneau.com/build/icons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="https://www.jeanneau.com/build/icons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="https://www.jeanneau.com/build/icons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="https://www.jeanneau.com/build/icons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="https://www.jeanneau.com/build/icons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://www.jeanneau.com/build/icons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://www.jeanneau.com/build/icons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="https://www.jeanneau.com/build/icons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="https://www.jeanneau.com/build/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="https://www.jeanneau.com/build/icons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://www.jeanneau.com/build/icons/favicon-16x16.png">
-                            <link rel="alternate" href="https://www.jeanneau.com/es-mx/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="es-MX" />
-                    <link rel="alternate" href="https://www.jeanneau.com/pt-br/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="pt-BR" />
-                    <link rel="alternate" href="https://www.jeanneau.com/en-au/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="en-AU" />
-                    <link rel="alternate" href="https://www.jeanneau.com/en-hk/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="en-HK" />
-                    <link rel="alternate" href="https://www.jeanneau.com/zh-hans/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="zh-Hans" />
-                    <link rel="alternate" href="https://www.jeanneau.com/it/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="it" />
-                    <link rel="alternate" href="https://www.jeanneau.com/tr/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="tr" />
-                    <link rel="alternate" href="https://www.jeanneau.com/fr/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="fr" />
-                    <link rel="alternate" href="https://www.jeanneau.com/de/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="de" />
-                    <link rel="alternate" href="https://www.jeanneau.com/es/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="es" />
-                    <link rel="alternate" href="https://www.jeanneau.com/pt/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="pt" />
-                    <link rel="alternate" href="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="en" />
-    
-    <link rel="manifest" href="https://www.jeanneau.com/build/icons/manifest.json">
-        <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="https://www.jeanneau.com/build/icons/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    <meta name="google-site-verification" content="5aJwrBzxdYTX4ala-6DJ_MxbC6UI39OSALxlDtx8dK8"/>
-            <script src="https://www.hCaptcha.com/1/api.js" async defer></script>
-        <script type="application/ld+json">
-        {
-            "@context": "https://schema.org/",
-            "@type": "WebSite",
-            "name": "Jeanneau",
-            "url": "https://www.jeanneau.com/"
-        }
-    </script>
-            <link rel="stylesheet" href="https://www.jeanneau.com/build/691.ff3cfb14.css"><link rel="stylesheet" href="https://www.jeanneau.com/build/268.be368f8d.css"><link rel="stylesheet" href="https://www.jeanneau.com/build/app.d0b73c3c.css">
-        <script>
-        var language = 'en';
-        var locale = 'en';
-        var base_path = '';
-    </script>
 
-        <script>
-    window.dataLayer = window.dataLayer || [];
-    dataLayer.push({
-            "event" : "dataLayer.ready",
-            "page" : {
-                "category" : "model",
-            },
-            "boat" : {
-                "model" : ["5-5-wa"],
-                "range" : ["cap-camarat"],
-                "segment" : ["outboard"],
-                "business_unit" : ["dayboating"],
-            },
-        });
-</script>    <!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                'https://api-data-www.jeanneau.com/g42lgim247i1sg7.js?aw='+i.replace(/^GTM-/, '')+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-586QHN4');</script><!-- End Google Tag Manager --></head>
-<body>
-<noscript><iframe src="https://api-data-www.jeanneau.com/ns.html?id=GTM-586QHN4"
-                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <main class="">
     <a id="content" tabindex="-1"></a>

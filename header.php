@@ -2,13 +2,13 @@
 /**
  * Header
  */
-?><!DOCTYPE html>
+?>
 <?php wp_head(); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <link rel="preload" href="<?php echo $theme_uri; ?>/assets/fonts/MyFont-Regular.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff2" as="font" type="font/woff2" crossorigin>
 
 <style>
   @font-face {
@@ -33,6 +33,29 @@
     font-display: swap;
   }
 
+  /* ADD ICON FONT */
+  @font-face {
+    font-family: 'jeanneau-icons';
+    src: url('https://www.jeanneau.com/build/fonts/jeanneau-icons.woff2') format('woff2'),
+         url('https://www.jeanneau.com/build/fonts/jeanneau-icons.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  /* Icon base class */
+  [class^="icon-"], [class*=" icon-"] {
+    font-family: 'jeanneau-icons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
   body {
     font-family: 'MyFont', sans-serif;
   }
@@ -44,45 +67,51 @@
     <meta property="og:title" content="Powerboats and sailboats for sale | Jeanneau">
     <meta property="og:description" content="Buy a motorboat or sailboat for your regattas, cruises or family leisure activities.">
     
-            <meta property="og:url" content="https://www.jeanneau.com">
-        <link rel="canonical" href="https://www.jeanneau.com"/>
-                <meta property="og:type" content="website">
-        <link rel="icon" type="image/x-icon" href="www.jeanneau.com/build/images/favicon.ico">
-    <link rel="apple-touch-icon" sizes="57x57" href="www.jeanneau.com/build/icons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="www.jeanneau.com/build/icons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="www.jeanneau.com/build/icons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="www.jeanneau.com/build/icons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="www.jeanneau.com/build/icons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="www.jeanneau.com/build/icons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="www.jeanneau.com/build/icons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="www.jeanneau.com/build/icons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="www.jeanneau.com/build/icons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="www.jeanneau.com/build/icons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="www.jeanneau.combuild/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="www.jeanneau.com/build/icons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="www.jeanneau.com/build/icons/favicon-16x16.png">
-                                <link rel="alternate" href="https://www.jeanneau.com/es-mx" hreflang="es-MX" />
-                    <link rel="alternate" href="https://www.jeanneau.com/pt-br" hreflang="pt-BR" />
-                    <link rel="alternate" href="https://www.jeanneau.com/en-au" hreflang="en-AU" />
-                    <link rel="alternate" href="https://www.jeanneau.com/en-us" hreflang="en-US" />
-                    <link rel="alternate" href="https://www.jeanneau.com/es-us" hreflang="es-US" />
-                    <link rel="alternate" href="https://www.jeanneau.com/en-hk" hreflang="en-HK" />
-                    <link rel="alternate" href="https://www.jeanneau.com/zh-hans" hreflang="zh-Hans" />
-                    <link rel="alternate" href="https://www.jeanneau.com/it" hreflang="it" />
-                    <link rel="alternate" href="https://www.jeanneau.com/tr" hreflang="tr" />
-                    <link rel="alternate" href="https://www.jeanneau.com/fr" hreflang="fr" />
-                    <link rel="alternate" href="https://www.jeanneau.com/de" hreflang="de" />
-                    <link rel="alternate" href="https://www.jeanneau.com/es" hreflang="es" />
-                    <link rel="alternate" href="https://www.jeanneau.com/pt" hreflang="pt" />
-                    <link rel="alternate" href="https://www.jeanneau.com" hreflang="en" />
+    <meta property="og:url" content="https://www.jeanneau.com">
+    <link rel="canonical" href="https://www.jeanneau.com"/>
+    <meta property="og:type" content="website">
     
-        <link rel="manifest" href="www.jeanneau.com/build/icons/manifest.json">
-        <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="www.jeanneau.com/build/icons/ms-icon-144x144.png">
+    <!-- FIXED: Added https:// protocol to all icon links -->
+    <link rel="icon" type="image/x-icon" href="https://www.jeanneau.com/build/images/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.jeanneau.com/build/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.jeanneau.com/build/icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.jeanneau.com/build/icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.jeanneau.com/build/icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.jeanneau.com/build/icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.jeanneau.com/build/icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.jeanneau.com/build/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.jeanneau.com/build/icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.jeanneau.com/build/icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://www.jeanneau.com/build/icons/android-icon-192x192.png">
+    <!-- FIXED: Missing slash in URL -->
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.jeanneau.com/build/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://www.jeanneau.com/build/icons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.jeanneau.com/build/icons/favicon-16x16.png">
+    
+    <!-- Hreflang links -->
+    <link rel="alternate" href="https://www.jeanneau.com/es-mx" hreflang="es-MX" />
+    <link rel="alternate" href="https://www.jeanneau.com/pt-br" hreflang="pt-BR" />
+    <link rel="alternate" href="https://www.jeanneau.com/en-au" hreflang="en-AU" />
+    <link rel="alternate" href="https://www.jeanneau.com/en-us" hreflang="en-US" />
+    <link rel="alternate" href="https://www.jeanneau.com/es-us" hreflang="es-US" />
+    <link rel="alternate" href="https://www.jeanneau.com/en-hk" hreflang="en-HK" />
+    <link rel="alternate" href="https://www.jeanneau.com/zh-hans" hreflang="zh-Hans" />
+    <link rel="alternate" href="https://www.jeanneau.com/it" hreflang="it" />
+    <link rel="alternate" href="https://www.jeanneau.com/tr" hreflang="tr" />
+    <link rel="alternate" href="https://www.jeanneau.com/fr" hreflang="fr" />
+    <link rel="alternate" href="https://www.jeanneau.com/de" hreflang="de" />
+    <link rel="alternate" href="https://www.jeanneau.com/es" hreflang="es" />
+    <link rel="alternate" href="https://www.jeanneau.com/pt" hreflang="pt" />
+    <link rel="alternate" href="https://www.jeanneau.com" hreflang="en" />
+    
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://www.jeanneau.com/build/icons/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     <meta name="google-site-verification" content="5aJwrBzxdYTX4ala-6DJ_MxbC6UI39OSALxlDtx8dK8"/>
-            <script src="https://www.hCaptcha.com/1/api.js" async defer></script>
-        <script type="application/ld+json">
+    
+    <script src="https://www.hCaptcha.com/1/api.js" async defer></script>
+    
+    <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "WebSite",
@@ -90,14 +119,19 @@
             "url": "https://www.jeanneau.com/"
         }
     </script>
-            <link rel="stylesheet" href="www.jeanneau.com/build/691.ff3cfb14.css"><link rel="stylesheet" href="www.jeanneau.com/build/268.be368f8d.css"><link rel="stylesheet" href="www.jeanneau.com/build/app.d0b73c3c.css">
-        <script>
+    
+    <!-- FIXED: Added https:// protocol to CSS links -->
+    <link rel="stylesheet" href="https://www.jeanneau.com/build/691.ff3cfb14.css">
+    <link rel="stylesheet" href="https://www.jeanneau.com/build/268.be368f8d.css">
+    <link rel="stylesheet" href="https://www.jeanneau.com/build/app.d0b73c3c.css">
+    
+    <script>
         var language = 'en';
         var locale = 'en';
         var base_path = '';
     </script>
 
-        <script>
+    <script>
     window.dataLayer = window.dataLayer || [];
     dataLayer.push({
             "event" : "dataLayer.ready",
@@ -111,11 +145,16 @@
                 "business_unit" : undefined,
             },
         });
-</script>    <!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    </script>
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
                     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
                 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 'https://api-data-www.jeanneau.com/g42lgim247i1sg7.js?aw='+i.replace(/^GTM-/, '')+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-586QHN4');</script><!-- End Google Tag Manager --></head>
+            })(window,document,'script','dataLayer','GTM-586QHN4');</script>
+    <!-- End Google Tag Manager -->
+</head>
 <body>
 <noscript><iframe src="https://api-data-www.jeanneau.com/ns.html?id=GTM-586QHN4"
                     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><header>
@@ -140,7 +179,7 @@
             </div>
 
             <div class="brand">
-                                    <h1><a href="/">Premium powerboat and sailboat builder</a></h1>
+                                    <h1><a href="index.php">Premium powerboat and sailboat builder</a></h1>
                             </div>
 
             <div class="menu-position right">
@@ -162,7 +201,7 @@
                     <p>CLOSE</p>
                 </div>
                 <ul class="nav">
-                    <li><a href="/">HOME</a></li>
+                    <li><a href="index.php">HOME</a></li>
                    <li>
   <a class="resolve-wp" data-slug="about-us" href="/about-us" aria-expanded="false" aria-controls="nav-brand">
     ABOUT US
@@ -229,7 +268,7 @@
                 
                                     
                                         <li><a href="https://configurateur.jeanneau.com/en" class="" target="_blank">CONFIGURATOR</a></li>
-                    <li><a class="resolve-wp" data-slug="location" >Location </a></li>
+                    <li><a class="resolve-wp" data-slug="location" >LOCATION </a></li>
                     <li><div class="social-links" itemscope itemtype="http://schema.org/Organization"><link itemprop="url" href="https://www.jeanneau.com"><ul>
                 
             <li>

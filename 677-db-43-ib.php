@@ -3,7 +3,7 @@
  * Template Name: DB/43 IB
  */
 get_header();
-?><
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -747,4 +747,4 @@ Views</a>
 <?php
 
 get_footer();
-?>
+?>s

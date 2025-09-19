@@ -876,7 +876,7 @@
 
                                     <div class="line-models">
                         <div>
-                                                            <a href="/boats/powerboat/43-merry-fisher-sport/670-merry-fisher-695-sport">
+ <a class="resolve-wp" data-slug="670-merry-fisher-695-sport" href="/670-merry-fisher-695-sport">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/62bad146b0710265349766.png" alt="Merry Fisher 695 Sport">
                                                                                 <div>
@@ -888,7 +888,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/43-merry-fisher-sport/672-merry-fisher-795-sport">
+<a class="resolve-wp" data-slug="672-merry-fisher-795-sport" href="/672-merry-fisher-795-sport">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/62bad164e76c4157811599.png" alt="Merry Fisher 795 Sport">
                                                                                 <div>
@@ -900,7 +900,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/43-merry-fisher-sport/702-merry-fisher-895-sport">
+<a class="resolve-wp" data-slug="702-merry-fisher-895-sport" href="/702-merry-fisher-895-sport">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/66b4e7016cdb5829483891.png" alt="MERRY FISHER 895 Sport">
                                                                                 <div>

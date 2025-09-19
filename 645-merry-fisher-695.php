@@ -1,25 +1,26 @@
-
 <?php
 /**
- * Template Name: Merry Fisher 605s
- */
+ * Template Name: Merry Fisher 695   
+ * **/
+
 get_header();
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8"/>
-    <title>Merry Fisher 605 | Jeanneau Boats</title>
+    <title>Merry Fisher 695 | Jeanneau Boats</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Optimised space, clever layouts, and practical equipment make the Merry Fisher 605 the ideal boat to experience your first outings at sea in comfort and with peace of mind.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
-    <meta property="og:title" content="Merry Fisher 605 | Jeanneau Boats">
-    <meta property="og:description" content="Optimised space, clever layouts, and practical equipment make the Merry Fisher 605 the ideal boat to experience your first outings at sea in comfort and with peace of mind.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
+    <meta name="description" content="Clever and versatile, the Merry Fisher 695 is perfect for family coastal cruising, and a delight for all who love the sea. &nbsp;Practical and easy to handle, it enables you to take advantage of all the nooks and crannies of the surrounding coastline.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
+    <meta property="og:title" content="Merry Fisher 695 | Jeanneau Boats">
+    <meta property="og:description" content="Clever and versatile, the Merry Fisher 695 is perfect for family coastal cruising, and a delight for all who love the sea. &nbsp;Practical and easy to handle, it enables you to take advantage of all the nooks and crannies of the surrounding coastline.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
     
-            <meta property="og:url" content="https://www.jeanneau.com/boats/powerboat/9-merry-fisher/656-merry-fisher-605">
-        <link rel="canonical" href="https://www.jeanneau.com/boats/powerboat/9-merry-fisher/656-merry-fisher-605"/>
+            <meta property="og:url" content="https://www.jeanneau.com/boats/powerboat/9-merry-fisher/645-merry-fisher-695">
+        <link rel="canonical" href="https://www.jeanneau.com/boats/powerboat/9-merry-fisher/645-merry-fisher-695"/>
                 <meta property="og:type" content="article">
-        <meta property="og:image" content="    https://www.jeanneau.com/images/thumbs/open_graph_cdn/https---app.jeanneau.com/uploads/boat/cover/6708e5f703027464405493.jpg">
+        <meta property="og:image" content="    https://www.jeanneau.com/images/thumbs/open_graph_cdn/https---app.jeanneau.com/uploads/boat/cover/6708e88f3ac42001969801.jpg">
         <link rel="icon" type="image/x-icon" href="https://www.jeanneau.com/build/images/favicon.ico">
     <link rel="apple-touch-icon" sizes="57x57" href="https://www.jeanneau.com/build/icons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="https://www.jeanneau.com/build/icons/apple-icon-60x60.png">
@@ -27,25 +28,25 @@ get_header();
     <link rel="apple-touch-icon" sizes="76x76" href="https://www.jeanneau.com/build/icons/apple-icon-76x76.png">
     <link rel="apple-touch-icon" sizes="114x114" href="https://www.jeanneau.com/build/icons/apple-icon-114x114.png">
     <link rel="apple-touch-icon" sizes="120x120" href="https://www.jeanneau.com/build/icons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="https://www.jeanneau.com/build/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/https://www.jeanneau.com/build/icons/apple-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="152x152" href="https://www.jeanneau.com/build/icons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://www.jeanneau.com/build/icons/apple-icon-180x180.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/https://www.jeanneau.combuild/icons/apple-icon-180x180.png">
     <link rel="icon" type="image/png" sizes="192x192" href="https://www.jeanneau.com/build/icons/android-icon-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://www.jeanneau.com/build/icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="https://www.jeanneau.com/build/icons/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://www.jeanneau.com/build/icons/favicon-16x16.png">
-                            <link rel="alternate" href="https://www.jeanneau.com/es-mx/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="es-MX" />
-                    <link rel="alternate" href="https://www.jeanneau.com/pt-br/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="pt-BR" />
-                    <link rel="alternate" href="https://www.jeanneau.com/en-au/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="en-AU" />
-                    <link rel="alternate" href="https://www.jeanneau.com/en-hk/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="en-HK" />
-                    <link rel="alternate" href="https://www.jeanneau.com/zh-hans/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="zh-Hans" />
-                    <link rel="alternate" href="https://www.jeanneau.com/it/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="it" />
-                    <link rel="alternate" href="https://www.jeanneau.com/tr/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="tr" />
-                    <link rel="alternate" href="https://www.jeanneau.com/fr/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="fr" />
-                    <link rel="alternate" href="https://www.jeanneau.com/de/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="de" />
-                    <link rel="alternate" href="https://www.jeanneau.com/es/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="es" />
-                    <link rel="alternate" href="https://www.jeanneau.com/pt/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="pt" />
-                    <link rel="alternate" href="https://www.jeanneau.com/boats/powerboat/9-merry-fisher/656-merry-fisher-605" hreflang="en" />
+                            <link rel="alternate" href="https://www.jeanneau.com/es-mx/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="es-MX" />
+                    <link rel="alternate" href="https://www.jeanneau.com/pt-br/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="pt-BR" />
+                    <link rel="alternate" href="https://www.jeanneau.com/en-au/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="en-AU" />
+                    <link rel="alternate" href="https://www.jeanneau.com/en-hk/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="en-HK" />
+                    <link rel="alternate" href="https://www.jeanneau.com/zh-hans/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="zh-Hans" />
+                    <link rel="alternate" href="https://www.jeanneau.com/it/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="it" />
+                    <link rel="alternate" href="https://www.jeanneau.com/tr/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="tr" />
+                    <link rel="alternate" href="https://www.jeanneau.com/fr/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="fr" />
+                    <link rel="alternate" href="https://www.jeanneau.com/de/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="de" />
+                    <link rel="alternate" href="https://www.jeanneau.com/es/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="es" />
+                    <link rel="alternate" href="https://www.jeanneau.com/pt/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="pt" />
+                    <link rel="alternate" href="https://www.jeanneau.com/boats/powerboat/9-merry-fisher/645-merry-fisher-695" hreflang="en" />
     
     <link rel="manifest" href="https://www.jeanneau.com/build/icons/manifest.json">
         <meta name="msapplication-TileColor" content="#ffffff">
@@ -78,7 +79,7 @@ get_header();
                 "category" : "model",
             },
             "boat" : {
-                "model" : ["605"],
+                "model" : ["695"],
                 "range" : ["merry-fisher"],
                 "segment" : ["outboard"],
                 "business_unit" : ["dayboating"],
@@ -93,7 +94,6 @@ get_header();
 <noscript><iframe src="https://api-data-www.jeanneau.com/ns.html?id=GTM-586QHN4"
                     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-
 <main class="">
     <a id="content" tabindex="-1"></a>
         <div class="model-show">
@@ -101,19 +101,19 @@ get_header();
             <div class="box head model model-header">
                 <div id="js-model-header">
                                             <div class="slide">
-                                                            <img src="https://app.jeanneau.com/uploads/media/image/exterior/105eb03a3af56f0a9ad0596c6a0637d7.jpg" alt=" 25751"
+                                                            <img src="https://app.jeanneau.com/uploads/media/image/exterior/b18eac992cf9b892ee659348add20e4e.jpg" alt=" 25752"
                                      class="img-responsive ">
                                                     </div>
                                     </div>
                 <div class="header-title">
                     <div class="header"></div>
-                    <h1 class="baseline">Merry Fisher 605</h1>
+                    <h1 class="baseline">Merry Fisher 695</h1>
                                     </div>
             </div>
         
                 <div class="boat-nav row">
             <div class="col-xs-6 col-sm-2 item-nav item-nav-blue boat-name">
-                <div>Merry Fisher 605</div>
+                <div>Merry Fisher 695</div>
             </div>
             <div class="col-sm-5 item-nav item-nav-inline d-sm-none">
                                     <div class="item">
@@ -152,7 +152,7 @@ get_header();
                 <meta itemprop="position" content="3" />
             </li>
                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                <a href="/boats/powerboat/9-merry-fisher/656-merry-fisher-605" itemprop="item"><span itemprop="name">Merry Fisher 605</span></a>
+                <a href="/boats/powerboat/9-merry-fisher/645-merry-fisher-695" itemprop="item"><span itemprop="name">Merry Fisher 695</span></a>
                 <meta itemprop="position" content="4" />
             </li>
             </ul>
@@ -162,7 +162,7 @@ get_header();
                 <div class="col-xs-12 col-sm-8">
                                             <a id="points" class="anchor"></a>
                         <div class="points">
-                            <div class="baseline">Opening Up New Horizons</div>
+                            <div class="baseline">Coastal Cruising Within Reach</div>
 
                                                             <div class="boat-reviews">
                                                                                                                         <i class="icon icon-star-full"></i>
@@ -170,20 +170,20 @@ get_header();
                                                                                                                                                                 <i class="icon icon-star-full"></i>
                                                                                                                                                                 <i class="icon icon-star-full"></i>
                                                                                                                                                                 <i class="icon icon-star-empty"></i>
-                                                                                                                <a href="https://feedback.jeanneau.com/merry-fisher/merry-fisher-605-serie2?lang=en-GB" target="_blank"
-                                       title="7 Customer reviews (Opens in a new window)">
-                                        7 Customer reviews
+                                                                                                                <a href="https://feedback.jeanneau.com/merry-fisher/merry-fisher-695?lang=en-GB" target="_blank"
+                                       title="74 Customer reviews (Opens in a new window)">
+                                        74 Customer reviews
                                     </a>
                                 </div>
                             
                             <div class="content">
-                                <p>Optimised space, clever layouts, and practical equipment make the Merry Fisher 605 the ideal boat to experience your first outings at sea in comfort and with peace of mind.</p><p>SEANAPPS Technology on board.&nbsp;To learn more, <a href="https://www.seanapps.app/en" target="_blank" rel="noopener noreferrer">click here</a>.</p>
+                                <p>Clever and versatile, the Merry Fisher 695 is perfect for family coastal cruising, and a delight for all who love the sea. &nbsp;Practical and easy to handle, it enables you to take advantage of all the nooks and crannies of the surrounding coastline.</p><p>SEANAPPS Technology on board.&nbsp;To learn more, <a href="https://www.seanapps.app/en" target="_blank" rel="noopener noreferrer">click here</a>.</p>
                             </div>
                         </div>
                                     </div>
                 <div class="col-xs-12 col-sm-4">
                                                                 <div class="configuratorLink">
-                            <a href="https://configurateur.jeanneau.com/en/configure/powerboat/9-merry-fisher/656-merry-fisher-605" class="square" target="_blank">
+                            <a href="https://configurateur.jeanneau.com/en/configure/powerboat/9-merry-fisher/645-merry-fisher-695" class="square" target="_blank">
                                 <i class="icon icon-commander-brochure"></i>
                                 Configure
                             </a>
@@ -203,18 +203,18 @@ get_header();
                                                                 
                                                                         <div class="block">
         <div class="col-xs-12 image-block no-padding d-sm-none">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/be2f6ceb2af9aab05ea8c8328826e58f.jpg')"
-                 title="Merry Fisher 605 - A Boat that Delivers Beyond Measure">
+            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/0a4248a36d48fc1867c9f8c2b407b487.jpg')"
+                 title="Merry Fisher 695 - Designed for All Who Love the Sea">
             </div>
         </div>
         <div class="col-xs-12 col-sm-6 content-block">
-            <h3 class="white">A Boat that Delivers Beyond Measure</h3>
-            <div class="text-content white"><p>It's crazy, all that you can do aboard a Merry Fisher 605 ! All the ingenuity and savoir-faire of Jeanneau results in optimised space on board, featuring a clever layout, sliding bench seating, a fold-up bolster seat, and convertible living spaces. Equipped with a sink, a refrigerator, and a 50-litre water pump, it will enable three or even four passen-gers to enjoy spending a night on board and savouring a nice breakfast on the water.</p></div>
+            <h3 class="white">Designed for All Who Love the Sea</h3>
+            <div class="text-content white"><p>Enjoy a variety of activities aboard the Merry Fisher 695 ! It can do it all: take your family diving and sunbathing in a sunny creek, take the children fishing at the first light of dawn, take advantage of a beautiful fall with an outing on the water in the company of friends and family… and keep smiling through the sea spray and wind, sheltered in the saloon of the wheelhouse. Without a doubt, the versatility of this outboard model, easily adaptable to a wide variety of marine activities, make it a guaranteed success, while its engine power and seaworthy qualities cinch the decision.</p></div>
             
         </div>
         <div class="col-sm-6 image-block no-padding d-sm">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/be2f6ceb2af9aab05ea8c8328826e58f.jpg')"
-                 title="Merry Fisher 605 - A Boat that Delivers Beyond Measure">
+            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/0a4248a36d48fc1867c9f8c2b407b487.jpg')"
+                 title="Merry Fisher 695 - Designed for All Who Love the Sea">
             </div>
         </div>
     </div>
@@ -222,13 +222,13 @@ get_header();
                                                                 
                                                                             <div class="block">
         <div class="col-xs-12 col-sm-6 image-block no-padding">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/interior/c08c5f755dde0f5b726fa2464d73cb51.jpg')"
-                 title="Merry Fisher 605 - Crisscrossing the Water with Ease">
+            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/7121020c00e4cb60c4238793e5c86eda.jpg')"
+                 title="Merry Fisher 695 - Comfort, Clever Equipment and High Performance">
             </div>
         </div>
         <div class="col-xs-12 col-sm-6 content-block even">
-            <h3>Crisscrossing the Water with Ease</h3>
-            <div class="text-content"><p>The Merry Fisher 605 offers easy, comfortable access to your first adventures at sea. Safe and protective, designed on one level, it is well adapted for the entire family, in all seasons, to enjoy numerous activities: fishing at dawn, swimming, snorkelling, an af-ternoon anchorage for drinks in the coves… Or the simple pleasure of looking at the sea, sheltered from the wind, through vast windows in the wheelhouse. Trailerable and easy to handle, this boat has every advantage for the sea to become a new playground for your entire family.</p></div>
+            <h3>Comfort, Clever Equipment and High Performance</h3>
+            <div class="text-content"><p>High-quality equipment makes the Merry Fisher 695 the perfect partner for your family outings at sea: large storage lockers, a small galley with a refrigerator, two forward berths, a saloon that converts into an additional berth, a separate marine head under the helm station, an L-shaped exterior cockpit, and wide swim platforms… And there is one more advantage to this model, already capable of so much: it is trailorable and can easily be stored in dry dock storage.</p></div>
             
         </div>
     </div>
@@ -240,12 +240,12 @@ get_header();
     <h3 class="sr-only">Videos</h3>
                                         <div class="video-first">
                                                 
-    <div class="iframe-container" data-reference="u7-4Kb_0Q7I" data-type="model-main-video" data-provider="YouTube">
+    <div class="iframe-container" data-reference="1SxykS5TU2k" data-type="model-main-video" data-provider="YouTube">
 
         
             <iframe src=""
-                    data-src="https://www.youtube.com/embed/u7-4Kb_0Q7I?vq=hd1080"
-                    data-reference="u7-4Kb_0Q7I"
+                    data-src="https://www.youtube.com/embed/1SxykS5TU2k?vq=hd1080"
+                    data-reference="1SxykS5TU2k"
                     class="optanon-category-C0003"
                     frameborder="0"
                     allowfullscreen
@@ -254,9 +254,37 @@ get_header();
             </div>
 
                                     </div>
-                    
+                                                            
         <div class="other-video">
-                                                </div>
+                                                                            <div class="video">
+                            
+    <div class="iframe-container" data-reference="VCtuvxh17gw" data-type="model-other-video" data-provider="YouTube">
+
+        
+            <a href="https://www.youtube.com/watch?v=VCtuvxh17gw"
+               data-reference="VCtuvxh17gw"
+               class="js-additional-video">
+                <img src="https://img.youtube.com/vi/VCtuvxh17gw/0.jpg" alt="Thumbnail">
+            </a>
+
+            </div>
+
+                    </div>
+                                                                <div class="video">
+                            
+    <div class="iframe-container" data-reference="EBwfK8pI-Zg" data-type="model-other-video" data-provider="YouTube">
+
+        
+            <a href="https://www.youtube.com/watch?v=EBwfK8pI-Zg"
+               data-reference="EBwfK8pI-Zg"
+               class="js-additional-video">
+                <img src="https://img.youtube.com/vi/EBwfK8pI-Zg/0.jpg" alt="Thumbnail">
+            </a>
+
+            </div>
+
+                    </div>
+                                    </div>
     </section>
         
                 
@@ -287,230 +315,216 @@ Views</a>
                                                     <div id="js-collapse-gallery-exterior" class="collapse in">
                                 <div class="gallery-exterior">
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/3b61d5ebb8b9d7b1e194668c6aa9cb1a.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/70007e0be8082e0d35a480d66b0694bd.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-exterior_1">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/3b61d5ebb8b9d7b1e194668c6aa9cb1a.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/3b61d5ebb8b9d7b1e194668c6aa9cb1a.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs JeanneauMerry Fisher 605 30204"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/70007e0be8082e0d35a480d66b0694bd.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/70007e0be8082e0d35a480d66b0694bd.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs JeanneauMerry Fisher 695 30200"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605</span>
+                                                    <span>Merry Fisher 695</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/746d33758e14457df9d304cd8432b365.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/f97de909486d37baaf501748652f1a26.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-exterior_2">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/746d33758e14457df9d304cd8432b365.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/746d33758e14457df9d304cd8432b365.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs JeanneauMerry Fisher 605 30205"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/f97de909486d37baaf501748652f1a26.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/f97de909486d37baaf501748652f1a26.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs JeanneauMerry Fisher 695 30201"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605</span>
+                                                    <span>Merry Fisher 695</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/ba0558a4d177b471f452b069447f6620.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/71d38d4d1c408888cd1a9b662c12e154.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-exterior_3">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/ba0558a4d177b471f452b069447f6620.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/ba0558a4d177b471f452b069447f6620.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs JeanneauMerry Fisher 605 30206"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/71d38d4d1c408888cd1a9b662c12e154.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/71d38d4d1c408888cd1a9b662c12e154.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs JeanneauMerry Fisher 695 30157"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605</span>
+                                                    <span>Merry Fisher 695</span>
                                                 </div>
                                             </a>
                                         </div>
-                                                                                                                                                                                                                                                                                                                                    <div class="gallery_item exterior portrait display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/efa3ed4f42b7c92f0472b88d6feb60c8.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                                                                                                                                                                                                                                                                                                                    <div class="gallery_item exterior paysage display">
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/937eb2d45d4c48ccb66418ce2d47427a.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-exterior_4">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/efa3ed4f42b7c92f0472b88d6feb60c8.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/efa3ed4f42b7c92f0472b88d6feb60c8.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs JeanneauMerry Fisher 605 30207"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/937eb2d45d4c48ccb66418ce2d47427a.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/937eb2d45d4c48ccb66418ce2d47427a.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs JeanneauMerry Fisher 695 30202"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605</span>
+                                                    <span>Merry Fisher 695</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/5837513448946d33094f7d1c685dd781.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/5d54fccc9c744f3e719cbf5a0fddf81f.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-exterior_5">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/5837513448946d33094f7d1c685dd781.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/5837513448946d33094f7d1c685dd781.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs JeanneauMerry Fisher 605 30208"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/5d54fccc9c744f3e719cbf5a0fddf81f.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/5d54fccc9c744f3e719cbf5a0fddf81f.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs JeanneauMerry Fisher 695 30203"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605</span>
+                                                    <span>Merry Fisher 695</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/29f38ffbef548bea837510f65e28ef82.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/6b79c655371e29904f96c9e1122a9f8a.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-exterior_6">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/29f38ffbef548bea837510f65e28ef82.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/29f38ffbef548bea837510f65e28ef82.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs JeanneauMerry FIsher 605 30158"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/6b79c655371e29904f96c9e1122a9f8a.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/6b79c655371e29904f96c9e1122a9f8a.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs JeanneauMerry Fisher 695 30156"/>
                                                 <div class="hover-image">
-                                                    <span>Merry FIsher 605</span>
+                                                    <span>Merry Fisher 695</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/61b333e77c42f6c2a62e5831369e6696.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/11ec8f27441d148296ac55318e05db03.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-exterior_7">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/61b333e77c42f6c2a62e5831369e6696.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/61b333e77c42f6c2a62e5831369e6696.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs JeanneauMerry FIsher 605 30159"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/11ec8f27441d148296ac55318e05db03.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/11ec8f27441d148296ac55318e05db03.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs JeanneauMerry Fisher 695 20739"/>
                                                 <div class="hover-image">
-                                                    <span>Merry FIsher 605</span>
+                                                    <span>Merry Fisher 695</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/b80e14ba2f332886ba69b9af8fbf4d7b.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/8de9a76c717e1b7c54f9c099202e2daa.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-exterior_8">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/b80e14ba2f332886ba69b9af8fbf4d7b.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/b80e14ba2f332886ba69b9af8fbf4d7b.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs JeanneauMerry Fisher 605 23453"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/8de9a76c717e1b7c54f9c099202e2daa.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/8de9a76c717e1b7c54f9c099202e2daa.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs JeanneauMerry Fisher 695 Serie2 18589"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605</span>
+                                                    <span>Merry Fisher 695 Serie2</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/606744eb31553f43783d1e3dc8fd4593.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/3b99f31326dc8a4ab7ffdfaf505b3837.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-exterior_9">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/606744eb31553f43783d1e3dc8fd4593.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/606744eb31553f43783d1e3dc8fd4593.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs JeanneauMerry Fisher 605 23454"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/3b99f31326dc8a4ab7ffdfaf505b3837.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/3b99f31326dc8a4ab7ffdfaf505b3837.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs JeanneauMerry Fisher 695 Serie2 18590"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605</span>
+                                                    <span>Merry Fisher 695 Serie2</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/0a0a506204e41ae0d6adff7b1ceacea0.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/616c991f7f8b4d14bc6fed45f7a3a256.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-exterior_10">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/0a0a506204e41ae0d6adff7b1ceacea0.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/0a0a506204e41ae0d6adff7b1ceacea0.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs JeanneauMerry Fisher 605 23452"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/616c991f7f8b4d14bc6fed45f7a3a256.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/616c991f7f8b4d14bc6fed45f7a3a256.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs JeanneauMerry Fisher 695 Serie2 18591"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605</span>
-                                                </div>
-                                            </a>
-                                        </div>
-                                                                                                                                                                                                                                                                                                                                    <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/104904a35c4fcbd8e8a457772426446b.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
-                                               id="gallery-exterior_11">
-                                                <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/104904a35c4fcbd8e8a457772426446b.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/104904a35c4fcbd8e8a457772426446b.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs JeanneauMerry Fisher 605 23455"/>
-                                                <div class="hover-image">
-                                                    <span>Merry Fisher 605</span>
+                                                    <span>Merry Fisher 695 Serie2</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                     </div>
 
-                                                                    <button class="js-square-more exterior"><i class="icon icon-plus"></i></button>
                                                             </div>
                         
                                                     <div id="js-collapse-gallery-interior" class="collapse">
                                 <div class="gallery-interior">
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/959995589da1964551da546c392b9949.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/50b1ee1be283ab8231426fbe376b6f19.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-interior_1">
                                                 <img aria-hidden="true" class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/959995589da1964551da546c392b9949.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/959995589da1964551da546c392b9949.jpg"
-                                                     alt="base_alt Merry Fisher 605 Série2 23439"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/50b1ee1be283ab8231426fbe376b6f19.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/50b1ee1be283ab8231426fbe376b6f19.jpg"
+                                                     alt="base_alt Merry Fisher 695 S2 27224"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605 Série2</span>
+                                                    <span>Merry Fisher 695 S2</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/56c8f834def942d01e95f89c47be68ef.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/00d994bc61c4046f6a514526256fb4b2.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-interior_2">
                                                 <img aria-hidden="true" class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/56c8f834def942d01e95f89c47be68ef.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/56c8f834def942d01e95f89c47be68ef.jpg"
-                                                     alt="base_alt Merry Fisher 605 Série2 23441"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/00d994bc61c4046f6a514526256fb4b2.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/00d994bc61c4046f6a514526256fb4b2.jpg"
+                                                     alt="base_alt Merry Fisher 695 S2 27225"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605 Série2</span>
+                                                    <span>Merry Fisher 695 S2</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/b469648ef4205e26c8717c8a8343e26f.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/4a748ab1793227af07fbc3486eb7df05.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-interior_3">
                                                 <img aria-hidden="true" class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/b469648ef4205e26c8717c8a8343e26f.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/b469648ef4205e26c8717c8a8343e26f.jpg"
-                                                     alt="base_alt Merry Fisher 605 Série2 23438"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/4a748ab1793227af07fbc3486eb7df05.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/4a748ab1793227af07fbc3486eb7df05.jpg"
+                                                     alt="base_alt Merry Fisher 695 S2 27226"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605 Série2</span>
+                                                    <span>Merry Fisher 695 S2</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/8f7a4309046b1d45c367e7bd3e77d6b8.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/bfda42e49c16929338ecf6f8977e5418.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-interior_4">
                                                 <img aria-hidden="true" class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/8f7a4309046b1d45c367e7bd3e77d6b8.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/8f7a4309046b1d45c367e7bd3e77d6b8.jpg"
-                                                     alt="base_alt Merry Fisher 605 Série2 23442"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/bfda42e49c16929338ecf6f8977e5418.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/bfda42e49c16929338ecf6f8977e5418.jpg"
+                                                     alt="base_alt Merry Fisher 695 S2 27227"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605 Série2</span>
+                                                    <span>Merry Fisher 695 S2</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/17055e9d0c97d718710d7278c884fde3.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/a44947c3f57ddc493ffb52e8d19390ca.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-interior_5">
                                                 <img aria-hidden="true" class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/17055e9d0c97d718710d7278c884fde3.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/17055e9d0c97d718710d7278c884fde3.jpg"
-                                                     alt="base_alt Merry Fisher 605 Série2 23440"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/a44947c3f57ddc493ffb52e8d19390ca.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/a44947c3f57ddc493ffb52e8d19390ca.jpg"
+                                                     alt="base_alt Merry Fisher 695 Serie2 18592"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605 Série2</span>
+                                                    <span>Merry Fisher 695 Serie2</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/8b5b5a6496fcf0402abd4dbea958ff66.jpg" class="gallery-show"
-                                               title="Merry Fisher 605"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/ac346c4e391278ac1925ce760a46440b.jpg" class="gallery-show"
+                                               title="Merry Fisher 695"
                                                id="gallery-interior_6">
                                                 <img aria-hidden="true" class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/8b5b5a6496fcf0402abd4dbea958ff66.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/8b5b5a6496fcf0402abd4dbea958ff66.jpg"
-                                                     alt="base_alt Merry Fisher 605 Série2 23437"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/ac346c4e391278ac1925ce760a46440b.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/ac346c4e391278ac1925ce760a46440b.jpg"
+                                                     alt="base_alt Merry Fisher 695 Serie2 18593"/>
                                                 <div class="hover-image">
-                                                    <span>Merry Fisher 605 Série2</span>
+                                                    <span>Merry Fisher 695 Serie2</span>
                                                 </div>
                                             </a>
                                         </div>
@@ -556,34 +570,34 @@ Views</a>
                                                                             <div class="photos">
                                 <div id="js-slider-specifications">
                                                                             <div class="slide">
-                                            <a title="Merry Fisher 605"
-                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/4862a99a9d2b509b5130b767a6057a05.jpg">
-                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/4862a99a9d2b509b5130b767a6057a05.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs Jeanneau Merry Fisher 605 Série2 20910"
+                                            <a title="Merry Fisher 695"
+                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/fd777b35c464ed299cbc6b04f921600d.jpg">
+                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/fd777b35c464ed299cbc6b04f921600d.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs Jeanneau Merry Fisher 695 Serie2 18596"
                                                      class="img-responsive">
                                             </a>
                                         </div>
                                                                             <div class="slide">
-                                            <a title="Merry Fisher 605"
-                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/b6bb721532590a656d7782a5354c90de.jpg">
-                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/b6bb721532590a656d7782a5354c90de.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs Jeanneau Merry Fisher 605 Série2 20909"
+                                            <a title="Merry Fisher 695"
+                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/0279b6c75edff121647ecfead76fa5bc.jpg">
+                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/0279b6c75edff121647ecfead76fa5bc.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs Jeanneau Merry Fisher 695 Serie2 18595"
                                                      class="img-responsive">
                                             </a>
                                         </div>
                                                                             <div class="slide">
-                                            <a title="Merry Fisher 605"
-                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/8f02061a92d29747e499ac3e59429d34.jpg">
-                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/8f02061a92d29747e499ac3e59429d34.jpg"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs Jeanneau Merry Fisher 605 Série2 21039"
+                                            <a title="Merry Fisher 695"
+                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/03efff492c42467bfa4250285706fbd5.jpg">
+                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/03efff492c42467bfa4250285706fbd5.jpg"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs Jeanneau Merry Fisher 695 Serie2 18594"
                                                      class="img-responsive">
                                             </a>
                                         </div>
                                                                             <div class="slide">
-                                            <a title="Merry Fisher 605"
-                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/4395aa64e8f4b98d4c16e5047de0bc75.png">
-                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/4395aa64e8f4b98d4c16e5047de0bc75.png"
-                                                     alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs Jeanneau Merry Fisher 605 29961"
+                                            <a title="Merry Fisher 695"
+                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/1f9154d6f38ea9a2856e6678c151f738.png">
+                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/1f9154d6f38ea9a2856e6678c151f738.png"
+                                                     alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs Jeanneau Merry Fisher 695 29956"
                                                      class="img-responsive">
                                             </a>
                                         </div>
@@ -595,32 +609,25 @@ Views</a>
                                                             <div class="value">
                                     <i class="icon icon-overall-length-powerboat"></i>
                                     <span class="title">Length overall</span>
-                                    <span class="val">5.66 m / 18&#039;7&quot;</span>
+                                    <span class="val">6.71 m / 22&#039;</span>
                                 </div>
                                                                                         <div class="value">
                                     <i class="icon icon-hull-length-powerboat"></i>
                                     <span class="title">Hull length</span>
-                                    <span class="val">5.51 m / 18&#039;1&quot;</span>
+                                    <span class="val">6.45 m / 21&#039;2&quot;</span>
                                 </div>
                                                                                         <div class="value">
                                 <i class="icon icon-hull-beam"></i>
                                 <span class="title">Hull Beam</span>
-                                <span class="val">2.44 m / 8&#039;</span>
-                                </div>                                                                                        <div class="value">
-                                    <i class="icon icon-keel-draught"></i>
-                                    <span class="title">
-                                                                              Standard Draft
-                                                                          </span>
-                                    <span class="val">0.45 m / 1&#039;6&quot;</span>
-                                </div>
-                                                                                        <div class="value">
+                                <span class="val">2.54 m / 8&#039;4&quot;</span>
+                                </div>                                                                                                                    <div class="value">
                                     <i class="icon icon-weight"></i>
                                     <span class="title">Weight</span>
-                                    <span class="val">1200 kg / 2646 Lbs</span></div>
+                                    <span class="val">1625 kg / 3583 Lbs</span></div>
                                                                                                                                                                                                         <div class="value">
                                     <i class="icon icon-fuel-capacity"></i>
                                     <span class="title">Fuel capacity</span>
-                                    <span class="val">100 l / 26 US gal</span>
+                                    <span class="val">170 l / 45 US gal</span>
                                 </div>
                                                                                         <div class="value">
                                     <i class="icon icon-water-capacity"></i>
@@ -630,7 +637,7 @@ Views</a>
                                                                                                                                                 <div class="value">
                                     <i class="icon icon-ce-category"></i>
                                     <span class="title">CE Category</span>
-                                    <span class="val">C-6
+                                    <span class="val">C-8
                                         
                                         
                                         
@@ -644,6 +651,14 @@ Views</a>
             Inventaire <span class="icon icon-caret-down"></span>
         </button>
         <ul class="dropdown-menu" aria-labelledby="inventory_title">
+                                                            <li><a href="https://app.jeanneau.com/inventory/14703"
+                       download="INV_MF_FR-GB_12-18_BD.pdf"
+                       target="_blank"
+                       title="Inventory Merry Fisher range 2018-2019 (Opens in a new window)"
+                            
+                            
+                    ><em></em><span>Inventory Merry Fisher range 2018-2019</span></a>
+                </li>
                                                             <li><a href="https://app.jeanneau.com/inventory/26438"
                        download="2022-0063_PRINT_INV_MOTEUR_2022_MERRY_FISHER_605-695-795-895_FR_GB_11-22_BD.pdf"
                        target="_blank"
@@ -669,7 +684,10 @@ Views</a>
                 </div>
             </section>
         
-                  
+                            <section class="container-fluid contact" id="contact-form">
+                <img src="/build/images/jeanneau-white-small.svg" alt="jeanneau logo">
+                <div class="agency-form">
+   
         
                 <section class="other-models container-fluid">
                             <a id="lines" class="anchor"></a>
@@ -677,13 +695,13 @@ Views</a>
                     <h3>explore the range</h3>
                     <div class="row">
                                                                                                                                         <div class="col-sm-6 col-lg-4 line">
-                                                                                                                                    <a href="/boats/powerboat/9-merry-fisher/645-merry-fisher-695">
+                                                                                                                                    <a href="/boats/powerboat/9-merry-fisher/656-merry-fisher-605">
                                     <div role="presentation" class="image">
-                                        <img src="https://app.jeanneau.com/uploads/boat/shape/669a47f0af037331996976.png" alt="Merry Fisher 695 │ Merry Fisher of 7m │ Boat Moteurs Jeanneau" class="img-responsive">
+                                        <img src="https://app.jeanneau.com/uploads/boat/shape/669a46df8b5bb331584833.png" alt="Merry Fisher 605 │ Merry Fisher of 6m │ Boat Moteurs Jeanneau" class="img-responsive">
                                     </div>
-                                    <h4 class="name">Merry Fisher 695</h4>
+                                    <h4 class="name">Merry Fisher 605</h4>
                                                                             <div class="resume">
-                                            <p>A true family cruiser in a trailorable version</p>
+                                            <p>All the qualities of a large Jeanneau</p>
                                         </div>
                                                                         <button class="btn btn-primary">See details</button>
                                 </a>
@@ -717,6 +735,7 @@ Views</a>
                     </section>
     </div>
 </main>
+
 
     <div id="cookieconsent-i18n"
          data-message="By continuing your visit on this website, you agree to the use of cookies to enhance your browsing experience and to generate website traffic statistics."

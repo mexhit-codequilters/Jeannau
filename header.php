@@ -133,8 +133,17 @@
                 </div>
                 <ul class="nav">
                     <li><a href="/">HOME</a></li>
-                    <li><a href="/about-us" aria-expanded="false" aria-controls="nav-brand" class="js-menu ">ABOUT US</a></li>
-                   <li> <a class="resolve-wp" data-slug="contact-us" href="/contact-us">CONTACT US</a> </li>
+                   <li>
+  <a class="resolve-wp" data-slug="about-us" href="/about-us" aria-expanded="false" aria-controls="nav-brand">
+    ABOUT US
+  </a>
+</li>
+<li>
+  <a class="resolve-wp" data-slug="contact-us" href="/contact-us">
+    CONTACT US
+  </a>
+</li>
+
 
   <a class="resolve-wp" data-slug="powerboats" href="/jeanneau-lite-theme/page-powerboats.php">MOTORBOATS</a>
 <script>
@@ -195,8 +204,7 @@
                                                             </ul>
                         </li>
                                         <li><a href="https://configurateur.jeanneau.com/en" class="" target="_blank">CONFIGURATOR</a></li>
-   
-                    <li><a href="/contact" class="">Location </a></li>
+                    <li><a class="resolve-wp" data-slug="location" >Location </a></li>
                     <li><div class="social-links" itemscope itemtype="http://schema.org/Organization"><link itemprop="url" href="https://www.jeanneau.com"><ul>
                 
             <li>

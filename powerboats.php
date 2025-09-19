@@ -11,7 +11,7 @@ get_header(); ?>
             <div id="js-category-header">
                 <div class="box head category category-header">
                     <div class="slide">
-                                                    <img src="https://app.jeanneau.com/uploads/media/image/exterior/hd/a8eb29f08578d8b6c99d19ac81bc9078.jpg" alt="univers slider">
+                                                    <img src="https://jeanneau.com/uploads/media/image/exterior/hd/a8eb29f08578d8b6c99d19ac81bc9078.jpg" alt="univers slider">
                                                 <div class="header-title">
                             <h1 class="baseline">JEANNEAU POWERBOATS:  a rich and diverse range of powerboats</h1>                                                    </div>
                     </div>
@@ -22,7 +22,7 @@ get_header(); ?>
 
                             
                                                                                                     
-                                                                    <img src="https://app.jeanneau.com/uploads/boat/cover/627271a30b822984177457.png" alt="Cap Camarat">
+                                                                    <img src="https://jeanneau.com/uploads/boat/cover/627271a30b822984177457.png" alt="Cap Camarat">
                                 
                             
                             <div class="header-title">
@@ -41,7 +41,7 @@ get_header(); ?>
                             
                                                                                                     
                                                                     <video tabindex="0" muted loop autoplay class="video-center" playsinline>
-                                        <source src="https://app.jeanneau.com/uploads/boat/cover/62ea389aa48cd355869085.mp4">
+                                        <source src="https://jeanneau.com/uploads/boat/cover/62ea389aa48cd355869085.mp4">
                                     </video>
                                 
                             
@@ -56,12 +56,12 @@ get_header(); ?>
                     </div>
                                     <div class="box head category category-header">
                         <div class="slide">
-                            <p class="hide line-name" data-slug="merry-fisher">Merry Fisher</p>
+                               <p class="hide line-name" data-slug="merry-fisher">Merry Fisher</p>
 
                             
                                                                                                     
                                                                     <video tabindex="0" muted loop autoplay class="video-center" playsinline>
-                                        <source src="https://app.jeanneau.com/uploads/boat/cover/576d58b4ab743.mp4">
+                                        <source src="https://jeanneau.com/uploads/boat/cover/576d58b4ab743.mp4">
                                     </video>
                                 
                             
@@ -80,7 +80,7 @@ get_header(); ?>
 
                             
                                                                                                     
-                                                                    <img src="https://app.jeanneau.com/uploads/boat/cover/63e66158ca4ed369219330.jpg" alt="Merry Fisher Sport">
+                                                                    <img src="https://jeanneau.com/uploads/boat/cover/63e66158ca4ed369219330.jpg" alt="Merry Fisher Sport">
                                 
                             
                             <div class="header-title">
@@ -124,7 +124,7 @@ get_header(); ?>
                                                                                     
                         <div class="block">
         <div class="col-xs-12 image-block no-padding d-sm-none">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/c022d33870955f2c3d8b6a0f130de930.jpg')"
+            <div class="img-block" style="background-image:url('https://jeanneau.com/uploads/media/image/exterior/c022d33870955f2c3d8b6a0f130de930.jpg')"
                  title="Cap Camarat - Cap Camarat">
             </div>
         </div>
@@ -134,7 +134,7 @@ get_header(); ?>
             <a class="btn btn-tertiary" href="/boats/powerboat/39-cap-camarat">See the line</a>
         </div>
         <div class="col-sm-6 image-block no-padding d-sm">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/c022d33870955f2c3d8b6a0f130de930.jpg')"
+            <div class="img-block" style="background-image:url('https://jeanneau.com/uploads/media/image/exterior/c022d33870955f2c3d8b6a0f130de930.jpg')"
                  title="Cap Camarat - Cap Camarat">
             </div>
         </div>
@@ -143,7 +143,7 @@ get_header(); ?>
                                                                                     
                             <div class="block">
         <div class="col-xs-12 col-sm-6 image-block no-padding">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/52dd897b70891e7f314e3ca158df04bd.jpg')"
+            <div class="img-block" style="background-image:url('https://jeanneau.com/uploads/media/image/exterior/52dd897b70891e7f314e3ca158df04bd.jpg')"
                  title="DB Yachts - DB Yachts">
             </div>
         </div>
@@ -157,7 +157,7 @@ get_header(); ?>
                                                                                     
                         <div class="block">
         <div class="col-xs-12 image-block no-padding d-sm-none">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/f9e2dd690b7bbb18a86bd9f7e37b2fec.jpg')"
+            <div class="img-block" style="background-image:url('https://jeanneau.com/uploads/media/image/exterior/f9e2dd690b7bbb18a86bd9f7e37b2fec.jpg')"
                  title="Merry Fisher - Merry Fisher">
             </div>
         </div>
@@ -190,129 +190,7 @@ get_header(); ?>
     </div>
 </main>
 
-    <footer>
-        <div id="newsletter" class="container-fluid">
-    <div class="media-container">
-        <div class="video-container">
-            <video loop playsinline muted preload="none" poster="https://www.jeanneau.com/build/images/footer/newsletter_default.jpg">
-                                    <source src="https://www.jeanneau.com/build/images/footer/newsletter_motorboat.mp4" type="video/mp4">
-                            </video>
-        </div>
-    </div>
-    <div class="form">
-        <form action="/newsletter" method="post">
-            <div class="header">
-                <div class="head">COME CRUISE WITH US !</div>
-                <small>Subscribe to our newsletter</small>
-            </div>
-            <div>
-                <div class="col-xs-6 col-xs-offset-1 col-sm-6 col-sm-offset-1 col-md-4 col-md-offset-3 col-lg-3 col-lg-offset-4">
-                                        <input id="newsletter_email" class="form-control" type="email"
-                           placeholder="Enter your email address"
-                           title="Enter your email address" required="required" name="email">
-                </div>
-                <div class="col-xs-4 col-md-2 col-lg-1">
-                    <button class="btn btn-tertiary btn-block" type="submit">Sign up</button>
-                    <a href="" class="close"><i class="icon icon-close"></i></a>
-                </div>
-            </div>
-        </form>
-    </div>
-</div>
-        <a id="footer" tabindex="-1"></a>
-                    <div class="container footer-main">
-    <nav id="footer-main" class="row">
-        <h2 class="sr-only">Footer navigation</h2>
-                    <section class="col-sm-3">
-                <h3>Jeanneau</h3>
-                <ul>
-                                            <li><a href="/services/rent">Rent</a></li>
-                        <li><a href="/services/second-hand">Used boats</a></li>
-                                        <li><a href="/articles#events">Boat Shows and Events</a></li>
-                    <li><a href="/comparator">Model Comparison Tool</a></li>
-                </ul>
-            </section>
-                                                <section class="col-sm-3">
-                        <h3><a href="/boats/sailboat">Sailboats</a></h3>
-                        <ul>
-                                                            <li><a href="/boats/sailboat/2-sun-odyssey">Sun Odyssey</a></li>
-                                                            <li><a href="/boats/sailboat/4-jeanneau-yachts">Jeanneau Yachts</a></li>
-                                                            <li><a href="/boats/sailboat/1-sun-fast">Sun Fast</a></li>
-                                                        <li><a href="/models-panorama?category=sailboat">Virtual tour</a></li>
-                        </ul>
-                    </section>
-                                                                <section class="col-sm-3">
-                        <h3><a href="/boats/powerboat">Motorboats</a></h3>
-                        <ul>
-                                                            <li><a href="/boats/powerboat/39-cap-camarat">Cap Camarat</a></li>
-                                                            <li><a href="/boats/powerboat/44-db-yachts">DB Yachts</a></li>
-                                                            <li><a href="/boats/powerboat/9-merry-fisher">Merry Fisher</a></li>
-                                                            <li><a href="/boats/powerboat/43-merry-fisher-sport">Merry Fisher Sport</a></li>
-                                                        <li><a href="/models-panorama?category=powerboat">Virtual tour</a></li>
-                        </ul>
-                    </section>
-                                        <section class="col-sm-3">
-                <h3>Customer Service</h3>
-                <ul>
-                    <li><a href="https://help.jeanneau.com/hc/en-gb" target="_blank">Customer Service</a></li>
-                </ul>
-            </section>
-            </nav>
-</div>
-
-<div role="contentinfo" id="footer-links" >
-    <div class="social-links" itemscope itemtype="http://schema.org/Organization">
-        <link itemprop="url" href="https://www.jeanneau.com">
-        <ul>
-                
-            <li>
-            <a href="https://www.facebook.com/JeanneauOfficial/" itemprop="sameAs" target="_blank" title="Facebook (Opens in a new window)">
-                <i class="icon icon-facebook circle-icon"></i>
-                <span class="sr-only">Facebook</span>
-            </a>
-        </li>
-            <li>
-            <a href="https://www.instagram.com/jeanneau_official/" itemprop="sameAs" target="_blank" title="Instagram (Opens in a new window)">
-                <i class="icon icon-instagram circle-icon"></i>
-                <span class="sr-only">Instagram</span>
-            </a>
-        </li>
-            <li>
-            <a href="https://fr.linkedin.com/company/jeanneau" itemprop="sameAs" target="_blank" title="Linked in (Opens in a new window)">
-                <i class="icon icon-linkedin circle-icon"></i>
-                <span class="sr-only">Linked in</span>
-            </a>
-        </li>
-            <li>
-            <a href="https://www.youtube.com/channel/UCN6KV7C7nUigyjTLKdE4Ysg?sub_confirmation=1" itemprop="sameAs" target="_blank" title="Youtube (Opens in a new window)">
-                <i class="icon icon-youtube circle-icon"></i>
-                <span class="sr-only">Youtube</span>
-            </a>
-        </li>
-            <li>
-            <a href="https://twitter.com/etsjeanneau" itemprop="sameAs" target="_blank" title="X (Opens in a new window)">
-                <i class="icon icon-x circle-icon"></i>
-                <span class="sr-only">X</span>
-            </a>
-        </li>
-    </ul>
-    </div>
-    <ul class="other-links">
-        <li><a href="/sitemap">Site Map</a></li>
-        <li><a href="/legal">Legal Notice</a></li>
-        <li><a href="/privacy-policy">Personal Data</a></li>
-        <li><a href="/jeanneau/partners">Our Partners</a></li>
-        <li><a href="/websites">All Our Websites</a></li>
-        <li><a href="/accessibility">Accessibility</a></li>
-        <li><a href="/contact">Contact</a></li>
-        <li><button id="ot-sdk-btn" class="ot-sdk-show-settings footer"> Cookie Settings</button></li>
-        <li><a id="optout" data-trk="optout" href="#">Reject audience measurement cookies</a></li>
-    </ul>
-    <div class="clearfix"></div>
-</div>
-
-
-                        </footer>
+   
 
     <div id="cookieconsent-i18n"
          data-message="By continuing your visit on this website, you agree to the use of cookies to enhance your browsing experience and to generate website traffic statistics."

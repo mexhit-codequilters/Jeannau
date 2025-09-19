@@ -13,8 +13,10 @@
 <style>
   @font-face {
     font-family: 'MyFont';
-    src: url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Regular.woff2') format('woff2'),
-         url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Regular.woff') format('woff');
+        src: url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff2') format('woff2'),
+         url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff') format('woff'), 
+         url('<?php echo $theme_uri; ?>/assets/fonts/PTqHzrsAoeAW.woff') format('woff'),   
+            url('<?php echo $theme_uri; ?>/assets/fontsPLH5eHQOpfQZ.ttf') format('ttf');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -22,8 +24,10 @@
 
   @font-face {
     font-family: 'MyFont';
-    src: url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff2') format('woff2'),
-         url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff') format('woff');
+       src: url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff2') format('woff2'),
+         url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff') format('woff'), 
+         url('<?php echo $theme_uri; ?>/assets/fonts/PTqHzrsAoeAW.woff') format('woff'),   
+            url('<?php echo $theme_uri; ?>/assets/fontsPLH5eHQOpfQZ.ttf') format('ttf');
     font-weight: 700;
     font-style: normal;
     font-display: swap;

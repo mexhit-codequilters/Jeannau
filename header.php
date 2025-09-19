@@ -750,7 +750,7 @@
 
                                     <div class="line-models">
                         <div>
-                                                            <a href="/boats/powerboat/9-merry-fisher/656-merry-fisher-605">
+   <a class="resolve-wp" data-slug="656-merry-fisher-605" href="/656-merry-fisher-605">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/669a46df8b5bb331584833.png" alt="Merry Fisher 605">
                                                                                 <div>
@@ -762,7 +762,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/9-merry-fisher/645-merry-fisher-695">
+   <a class="resolve-wp" data-slug="645-merry-fisher-695" href="/645-merry-fisher-695">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/669a47f0af037331996976.png" alt="Merry Fisher 695">
                                                                                 <div>
@@ -774,7 +774,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/9-merry-fisher/657-merry-fisher-795">
+   <a class="resolve-wp" data-slug="657-merry-fisher-795" href="/657-merry-fisher-795">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/669a460c96f2c682793619.png" alt="Merry Fisher 795">
                                                                                 <div>
@@ -786,7 +786,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/9-merry-fisher/697-merry-fisher-895">
+   <a class="resolve-wp" data-slug="697-merry-fisher-895" href="/697-merry-fisher-895">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/64feca4d83768239290585.png" alt="MERRY FISHER 895">
                                                                                 <div>
@@ -798,7 +798,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/9-merry-fisher/711-merry-fisher-1095-coupe-serie2">
+   <a class="resolve-wp" data-slug="711-merry-fisher-1095-coupe-serie2" href="/711-merry-fisher-1095-coupe-serie2">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/687e00c9d8fbb085880230.png" alt="Merry Fisher 1095 Coupé Serie2">
                                                                                 <div>
@@ -810,7 +810,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/9-merry-fisher/710-merry-fisher-1095-fly-serie2">
+   <a class="resolve-wp" data-slug="710-merry-fisher-1095-fly-serie2" href="/710-merry-fisher-1095-fly-serie2">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/687a67757a65b961127655.png" alt="Merry Fisher 1095 Fly Serie2">
                                                                                 <div>
@@ -822,7 +822,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/9-merry-fisher/703-merry-fisher-1295-coupe">
+    <a class="resolve-wp" data-slug="703-merry-fisher-1295-coupe" href="/703-merry-fisher-1295-coupe">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/66d82bb89c91b213584666.png" alt="MERRY FISHER 1295 Coupé">
                                                                                 <div>
@@ -834,7 +834,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/9-merry-fisher/683-merry-fisher-1295-fly">
+   <a class="resolve-wp" data-slug="683-merry-fisher-1295-fly" href="/683-merry-fisher-1295-fly">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/66b4e5b8cdd90696600478.png" alt="Merry Fisher 1295 Fly">
                                                                                 <div>

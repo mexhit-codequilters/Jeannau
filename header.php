@@ -3,49 +3,78 @@
  * Header
  */
 ?><!DOCTYPE html>
+<?php wp_head(); ?>
+<!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="preload" href="<?php echo $theme_uri; ?>/assets/fonts/MyFont-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff2" as="font" type="font/woff2" crossorigin>
+
+<style>
+  @font-face {
+    font-family: 'MyFont';
+    src: url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Regular.woff2') format('woff2'),
+         url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'MyFont';
+    src: url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff2') format('woff2'),
+         url('<?php echo $theme_uri; ?>/assets/fonts/MyFont-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  body {
+    font-family: 'MyFont', sans-serif;
+  }
+</style>
     <meta charset="UTF-8"/>
-    <title>Cap Camarat 5.5 WA | Jeanneau Boats</title>
+    <title>Powerboats and sailboats for sale | Jeanneau</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The Cap Camarat 5.5 WA is the ideal boat for exploring the coastline on the spur of the moment, heading out with the wind in your hair to take advantage of a beautiful sunny day with family, as a couple, or just on your own.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
-    <meta property="og:title" content="Cap Camarat 5.5 WA | Jeanneau Boats">
-    <meta property="og:description" content="The Cap Camarat 5.5 WA is the ideal boat for exploring the coastline on the spur of the moment, heading out with the wind in your hair to take advantage of a beautiful sunny day with family, as a couple, or just on your own.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
+    <meta name="description" content="Buy a motorboat or sailboat for your regattas, cruises or family leisure activities.">
+    <meta property="og:title" content="Powerboats and sailboats for sale | Jeanneau">
+    <meta property="og:description" content="Buy a motorboat or sailboat for your regattas, cruises or family leisure activities.">
     
-            <meta property="og:url" content="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa">
-        <link rel="canonical" href="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa"/>
-                <meta property="og:type" content="article">
-        <meta property="og:image" content="    https://www.jeanneau.com/images/thumbs/open_graph_cdn/https---app.jeanneau.com/uploads/boat/cover/63121f90c1281011563747.jpg">
-        <link rel="icon" type="image/x-icon" href="https://www.jeanneau.com/build/images/favicon.ico">
-    <link rel="apple-touch-icon" sizes="57x57" href="https://www.jeanneau.com/build/icons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="https://www.jeanneau.com/build/icons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="https://www.jeanneau.com/build/icons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="https://www.jeanneau.com/build/icons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="https://www.jeanneau.com/build/icons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="https://www.jeanneau.com/build/icons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="https://www.jeanneau.com/build/icons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://www.jeanneau.com/build/icons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://www.jeanneau.com/build/icons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="https://www.jeanneau.com/build/icons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="https://www.jeanneau.com/build/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="https://www.jeanneau.com/build/icons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://www.jeanneau.com/build/icons/favicon-16x16.png">
-                            <link rel="alternate" href="https://www.jeanneau.com/es-mx/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="es-MX" />
-                    <link rel="alternate" href="https://www.jeanneau.com/pt-br/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="pt-BR" />
-                    <link rel="alternate" href="https://www.jeanneau.com/en-au/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="en-AU" />
-                    <link rel="alternate" href="https://www.jeanneau.com/en-hk/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="en-HK" />
-                    <link rel="alternate" href="https://www.jeanneau.com/zh-hans/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="zh-Hans" />
-                    <link rel="alternate" href="https://www.jeanneau.com/it/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="it" />
-                    <link rel="alternate" href="https://www.jeanneau.com/tr/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="tr" />
-                    <link rel="alternate" href="https://www.jeanneau.com/fr/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="fr" />
-                    <link rel="alternate" href="https://www.jeanneau.com/de/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="de" />
-                    <link rel="alternate" href="https://www.jeanneau.com/es/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="es" />
-                    <link rel="alternate" href="https://www.jeanneau.com/pt/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="pt" />
-                    <link rel="alternate" href="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="en" />
+            <meta property="og:url" content="https://www.jeanneau.com">
+        <link rel="canonical" href="https://www.jeanneau.com"/>
+                <meta property="og:type" content="website">
+        <link rel="icon" type="image/x-icon" href="www.jeanneau.com/build/images/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="www.jeanneau.com/build/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="www.jeanneau.com/build/icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="www.jeanneau.com/build/icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="www.jeanneau.com/build/icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="www.jeanneau.com/build/icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="www.jeanneau.com/build/icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="www.jeanneau.com/build/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="www.jeanneau.com/build/icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="www.jeanneau.com/build/icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="www.jeanneau.com/build/icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="www.jeanneau.combuild/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="www.jeanneau.com/build/icons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="www.jeanneau.com/build/icons/favicon-16x16.png">
+                                <link rel="alternate" href="https://www.jeanneau.com/es-mx" hreflang="es-MX" />
+                    <link rel="alternate" href="https://www.jeanneau.com/pt-br" hreflang="pt-BR" />
+                    <link rel="alternate" href="https://www.jeanneau.com/en-au" hreflang="en-AU" />
+                    <link rel="alternate" href="https://www.jeanneau.com/en-us" hreflang="en-US" />
+                    <link rel="alternate" href="https://www.jeanneau.com/es-us" hreflang="es-US" />
+                    <link rel="alternate" href="https://www.jeanneau.com/en-hk" hreflang="en-HK" />
+                    <link rel="alternate" href="https://www.jeanneau.com/zh-hans" hreflang="zh-Hans" />
+                    <link rel="alternate" href="https://www.jeanneau.com/it" hreflang="it" />
+                    <link rel="alternate" href="https://www.jeanneau.com/tr" hreflang="tr" />
+                    <link rel="alternate" href="https://www.jeanneau.com/fr" hreflang="fr" />
+                    <link rel="alternate" href="https://www.jeanneau.com/de" hreflang="de" />
+                    <link rel="alternate" href="https://www.jeanneau.com/es" hreflang="es" />
+                    <link rel="alternate" href="https://www.jeanneau.com/pt" hreflang="pt" />
+                    <link rel="alternate" href="https://www.jeanneau.com" hreflang="en" />
     
-    <link rel="manifest" href="https://www.jeanneau.com/build/icons/manifest.json">
+        <link rel="manifest" href="www.jeanneau.com/build/icons/manifest.json">
         <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content=https://www.jeanneau.com/build/icons/ms-icon-144x144.png">
+    <meta name="msapplication-TileImage" content="www.jeanneau.com/build/icons/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     <meta name="google-site-verification" content="5aJwrBzxdYTX4ala-6DJ_MxbC6UI39OSALxlDtx8dK8"/>
             <script src="https://www.hCaptcha.com/1/api.js" async defer></script>
@@ -57,7 +86,7 @@
             "url": "https://www.jeanneau.com/"
         }
     </script>
-            <link rel="stylesheet" href="https://www.jeanneau.com/build/691.ff3cfb14.css"><link rel="stylesheet" href="https://www.jeanneau.com/build/268.be368f8d.css"><link rel="stylesheet" href="https://www.jeanneau.com/build/app.d0b73c3c.css">
+            <link rel="stylesheet" href="www.jeanneau.com/build/691.ff3cfb14.css"><link rel="stylesheet" href="www.jeanneau.com/build/268.be368f8d.css"><link rel="stylesheet" href="www.jeanneau.com/build/app.d0b73c3c.css">
         <script>
         var language = 'en';
         var locale = 'en';
@@ -69,13 +98,13 @@
     dataLayer.push({
             "event" : "dataLayer.ready",
             "page" : {
-                "category" : "model",
+                "category" : undefined,
             },
             "boat" : {
-                "model" : ["5-5-wa"],
-                "range" : ["cap-camarat"],
-                "segment" : ["outboard"],
-                "business_unit" : ["dayboating"],
+                "model" : undefined,
+                "range" : undefined,
+                "segment" : undefined,
+                "business_unit" : undefined,
             },
         });
 </script>    <!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -528,7 +557,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                                                           <a class="resolve-wp" data-slug="681-cap-camarat-10-5-cc" href="/681-cap-camarat-10-5-cc">
+ <a class="resolve-wp" data-slug="681-cap-camarat-10-5-cc" href="/681-cap-camarat-10-5-cc">
                                             <div class="boat">
                                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/62bd5f3f6ac81712196835.png" alt="Cap Camarat 10.5 CC">
                                                                                                 <div>
@@ -546,7 +575,7 @@
                                 </a>
                             </p>
                                                             <div>
-                                                                          <a class="resolve-wp" data-slug="/10-cap-camarat-5-5-wa" href="/10-cap-camarat-5-5-wa">
+<a class="resolve-wp" data-slug="10-cap-camarat-5-5-wa" href="/10-cap-camarat-5-5-wa">
                                             <div class="boat">
                                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/64f1acde61306473374249.png" alt="Cap Camarat 5.5 WA">
                                                                                                 <div>
@@ -557,7 +586,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                                                             <a class="resolve-wp" data-slug="/624-cap-camarat-6-5-wa" href="/624-cap-camarat-6-5-wa">
+<a class="resolve-wp" data-slug="624-cap-camarat-6-5-wa" href="/624-cap-camarat-6-5-wa">
                                             <div class="boat">
                                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/64f1acee7c14c350087293.png" alt="Cap Camarat 6.5 WA">
                                                                                                 <div>
@@ -568,7 +597,8 @@
                                                 </div>
                                             </div>
                                         </a>
-                                                                            <a class="resolve-wp" data-slug="/669-cap-camarat-7-5-wa" href="/669-cap-camarat-7-5-wa">
+                                        </a>
+<a class="resolve-wp" data-slug="669-cap-camarat-7-5-wa" href="/669-cap-camarat-7-5-wa">
                                             <div class="boat">
                                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/64f097f18b8c1832448792.png" alt="Cap Camarat 7.5 WA">
                                                                                                 <div>
@@ -579,7 +609,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                                                           <a class="resolve-wp" data-slug="/696-cap-camarat-9-0-wa" href="/696-cap-camarat-9-0-wa">
+<a class="resolve-wp" data-slug="696-cap-camarat-9-0-w" href="/696-cap-camarat-9-0-wa">
                                             <div class="boat">
                                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/64f1af827286c259987541.png" alt="CAP CAMARAT 9.0 WA">
                                                                                                 <div>
@@ -590,7 +620,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                                                            <a class="resolve-wp" data-slug="/655-cap-camarat-10-5wa" href="/655-cap-camarat-10-5wa">
+<a class="resolve-wp" data-slug="655-cap-camarat-10-5wa" href="/655-cap-camarat-10-5wa">
                                             <div class="boat">
                                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/64f1af91265b4309220676.png" alt="Cap Camarat 10.5WA">
                                                                                                 <div>
@@ -601,7 +631,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                                                            <a class="resolve-wp" data-slug="/652-cap-camarat-12-5wa" href="/652-cap-camarat-12-5wa">
+<a class="resolve-wp" data-slug="652-cap-camarat-12-5wa" href="/652-cap-camarat-12-5wa">
                                             <div class="boat">
                                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/64f1afa002cc9951809555.png" alt="Cap Camarat 12.5WA">
                                                                                                 <div>

@@ -1,25 +1,22 @@
-
-
 <?php
 /**
- * Template Name: 10-cap-camarat-5-5-wa
+ * Template Name: Cap Camarat 6.5 Wa
  */
 get_header();
-?>
-<!DOCTYPE html>
+?><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8"/>
-    <title>Cap Camarat 5.5 WA | Jeanneau Boats</title>
+    <title>Cap Camarat 6.5 WA | Jeanneau Boats</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The Cap Camarat 5.5 WA is the ideal boat for exploring the coastline on the spur of the moment, heading out with the wind in your hair to take advantage of a beautiful sunny day with family, as a couple, or just on your own.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
-    <meta property="og:title" content="Cap Camarat 5.5 WA | Jeanneau Boats">
-    <meta property="og:description" content="The Cap Camarat 5.5 WA is the ideal boat for exploring the coastline on the spur of the moment, heading out with the wind in your hair to take advantage of a beautiful sunny day with family, as a couple, or just on your own.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
+    <meta name="description" content="Boasting a modular cockpit and a spacious cabin, the Cap Camarat 6.5 WA will enable you to spend unforgettable weekends on the water. &nbsp;Fun, relaxation, and sunsets are in store.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
+    <meta property="og:title" content="Cap Camarat 6.5 WA | Jeanneau Boats">
+    <meta property="og:description" content="Boasting a modular cockpit and a spacious cabin, the Cap Camarat 6.5 WA will enable you to spend unforgettable weekends on the water. &nbsp;Fun, relaxation, and sunsets are in store.SEANAPPS Technology on board.&nbsp;To learn more, click here.">
     
-            <meta property="og:url" content="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa">
-        <link rel="canonical" href="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa"/>
+            <meta property="og:url" content="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa">
+        <link rel="canonical" href="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa"/>
                 <meta property="og:type" content="article">
-        <meta property="og:image" content="    https://www.jeanneau.com/images/thumbs/open_graph_cdn/https---app.jeanneau.com/uploads/boat/cover/63121f90c1281011563747.jpg">
+        <meta property="og:image" content="    https://www.jeanneau.com/images/thumbs/open_graph_cdn/https---app.jeanneau.com/uploads/boat/cover/63121ff884660439109452.jpg">
         <link rel="icon" type="image/x-icon" href="https://www.jeanneau.com/build/images/favicon.ico">
     <link rel="apple-touch-icon" sizes="57x57" href="https://www.jeanneau.com/build/icons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="https://www.jeanneau.com/build/icons/apple-icon-60x60.png">
@@ -34,20 +31,20 @@ get_header();
     <link rel="icon" type="image/png" sizes="32x32" href="https://www.jeanneau.com/build/icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="https://www.jeanneau.com/build/icons/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://www.jeanneau.com/build/icons/favicon-16x16.png">
-                            <link rel="alternate" href="https://www.jeanneau.com/es-mx/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="es-MX" />
-                    <link rel="alternate" href="https://www.jeanneau.com/pt-br/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="pt-BR" />
-                    <link rel="alternate" href="https://www.jeanneau.com/en-au/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="en-AU" />
-                    <link rel="alternate" href="https://www.jeanneau.com/en-hk/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="en-HK" />
-                    <link rel="alternate" href="https://www.jeanneau.com/zh-hans/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="zh-Hans" />
-                    <link rel="alternate" href="https://www.jeanneau.com/it/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="it" />
-                    <link rel="alternate" href="https://www.jeanneau.com/tr/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="tr" />
-                    <link rel="alternate" href="https://www.jeanneau.com/fr/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="fr" />
-                    <link rel="alternate" href="https://www.jeanneau.com/de/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="de" />
-                    <link rel="alternate" href="https://www.jeanneau.com/es/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="es" />
-                    <link rel="alternate" href="https://www.jeanneau.com/pt/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="pt" />
-                    <link rel="alternate" href="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" hreflang="en" />
+                            <link rel="alternate" href="https://www.jeanneau.com/es-mx/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="es-MX" />
+                    <link rel="alternate" href="https://www.jeanneau.com/pt-br/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="pt-BR" />
+                    <link rel="alternate" href="https://www.jeanneau.com/en-au/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="en-AU" />
+                    <link rel="alternate" href="https://www.jeanneau.com/en-hk/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="en-HK" />
+                    <link rel="alternate" href="https://www.jeanneau.com/zh-hans/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="zh-Hans" />
+                    <link rel="alternate" href="https://www.jeanneau.com/it/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="it" />
+                    <link rel="alternate" href="https://www.jeanneau.com/tr/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="tr" />
+                    <link rel="alternate" href="https://www.jeanneau.com/fr/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="fr" />
+                    <link rel="alternate" href="https://www.jeanneau.com/de/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="de" />
+                    <link rel="alternate" href="https://www.jeanneau.com/es/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="es" />
+                    <link rel="alternate" href="https://www.jeanneau.com/pt/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="pt" />
+                    <link rel="alternate" href="https://www.jeanneau.com/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" hreflang="en" />
     
-    <link rel="manifest" href="https://www.jeanneau.com/build/icons/manifest.json">
+    <link rel="manifest" href="/build/icons/manifest.json">
         <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="https://www.jeanneau.com/build/icons/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
@@ -76,7 +73,7 @@ get_header();
                 "category" : "model",
             },
             "boat" : {
-                "model" : ["5-5-wa"],
+                "model" : ["6-5-wa"],
                 "range" : ["cap-camarat"],
                 "segment" : ["outboard"],
                 "business_unit" : ["dayboating"],
@@ -86,11 +83,7 @@ get_header();
                     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
                 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 'https://api-data-www.jeanneau.com/g42lgim247i1sg7.js?aw='+i.replace(/^GTM-/, '')+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-586QHN4');</script><!-- End Google Tag Manager --></head>
-<body>
-<noscript><iframe src="https://api-data-www.jeanneau.com/ns.html?id=GTM-586QHN4"
-                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
+            })(window,document,'script','dataLayer','GTM-586QHN4');</script><!-- End Google Tag Manager -->
 <main class="">
     <a id="content" tabindex="-1"></a>
         <div class="model-show">
@@ -98,19 +91,19 @@ get_header();
             <div class="box head model model-header">
                 <div id="js-model-header">
                                             <div class="slide">
-                                                            <img src="https://app.jeanneau.com/uploads/media/image/exterior/e10a9853c002912c581c6f4d9a30f0e9.jpg" alt=" 25729"
+                                                            <img src="https://app.jeanneau.com/uploads/media/image/exterior/95bffc36de5ec988a1edf013b8f8973e.jpg" alt=" 25730"
                                      class="img-responsive ">
                                                     </div>
                                     </div>
                 <div class="header-title">
                     <div class="header"></div>
-                    <h1 class="baseline">Cap Camarat 5.5 WA</h1>
+                    <h1 class="baseline">Cap Camarat 6.5 WA</h1>
                                     </div>
             </div>
         
                 <div class="boat-nav row">
             <div class="col-xs-6 col-sm-2 item-nav item-nav-blue boat-name">
-                <div>Cap Camarat 5.5 WA</div>
+                <div>Cap Camarat 6.5 WA</div>
             </div>
             <div class="col-sm-5 item-nav item-nav-inline d-sm-none">
                                     <div class="item">
@@ -153,7 +146,7 @@ get_header();
                 <meta itemprop="position" content="4" />
             </li>
                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                <a href="/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" itemprop="item"><span itemprop="name">Cap Camarat 5.5 WA</span></a>
+                <a href="/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" itemprop="item"><span itemprop="name">Cap Camarat 6.5 WA</span></a>
                 <meta itemprop="position" content="5" />
             </li>
             </ul>
@@ -163,7 +156,7 @@ get_header();
                 <div class="col-xs-12 col-sm-8">
                                             <a id="points" class="anchor"></a>
                         <div class="points">
-                            <div class="baseline">Discovering New Sensations</div>
+                            <div class="baseline">Designed for Beautiful Getaways on the Water</div>
 
                                                             <div class="boat-reviews">
                                                                                                                         <i class="icon icon-star-full"></i>
@@ -171,20 +164,20 @@ get_header();
                                                                                                                                                                 <i class="icon icon-star-full"></i>
                                                                                                                                                                 <i class="icon icon-star-full"></i>
                                                                                                                                                                 <i class="icon icon-star-empty"></i>
-                                                                                                                <a href="https://feedback.jeanneau.com/cap-camarat-walk-around/cap-camarat-55-wa?lang=en-GB" target="_blank"
-                                       title="28 Customer reviews (Opens in a new window)">
-                                        28 Customer reviews
+                                                                                                                <a href="https://feedback.jeanneau.com/cap-camarat-walk-around/cap-camarat-65-wa-serie3?lang=en-GB" target="_blank"
+                                       title="43 Customer reviews (Opens in a new window)">
+                                        43 Customer reviews
                                     </a>
                                 </div>
                             
                             <div class="content">
-                                <p>The Cap Camarat 5.5 WA is the ideal boat for exploring the coastline on the spur of the moment, heading out with the wind in your hair to take advantage of a beautiful sunny day with family, as a couple, or just on your own.</p><p>SEANAPPS Technology on board.&nbsp;To learn more, <a href="https://www.seanapps.app/en" target="_blank" rel="noopener noreferrer">click here</a>.</p>
+                                <p>Boasting a modular cockpit and a spacious cabin, the Cap Camarat 6.5 WA will enable you to spend unforgettable weekends on the water. &nbsp;Fun, relaxation, and sunsets are in store.</p><p>SEANAPPS Technology on board.&nbsp;To learn more, <a href="https://www.seanapps.app/en" target="_blank" rel="noopener noreferrer">click here</a>.</p>
                             </div>
                         </div>
                                     </div>
                 <div class="col-xs-12 col-sm-4">
                                                                 <div class="configuratorLink">
-                            <a href="https://configurateur.jeanneau.com/en/configure/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa" class="square" target="_blank">
+                            <a href="https://configurateur.jeanneau.com/en/configure/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa" class="square" target="_blank">
                                 <i class="icon icon-commander-brochure"></i>
                                 Configure
                             </a>
@@ -210,18 +203,18 @@ get_header();
                                                                 
                                                                         <div class="block">
         <div class="col-xs-12 image-block no-padding d-sm-none">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/interior/52d8b08a47f855af2c19567984e32c50.jpg')"
-                 title="Cap Camarat 5.5 WA - Elegance, Performance and Safety">
+            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/594bf183ff40747f08acc4fc4c3352b1.jpg')"
+                 title="Cap Camarat 6.5 WA - Enjoyable Cruising for All">
             </div>
         </div>
         <div class="col-xs-12 col-sm-6 content-block">
-            <h3 class="white">Elegance, Performance and Safety</h3>
-            <div class="text-content white"><p>Boasting a bold, contemporary profile, the Cap Camarat 5.5 WA offers the perfect balance of performance and safety for all on board. The tapered V-shaped hull guarantees excellent sea-keeping and comfort while cruising.</p></div>
+            <h3 class="white">Enjoyable Cruising for All</h3>
+            <div class="text-content white"><p>Safe and sporty, the Cap Camarat 6.5 WA offers a superb balance between comfort and performance. The V-shaped hull designed by Michael Peters ensures excellent seakeeping and manoeuvrability at speeds of up to 40 knots. The forward recessed deck is devoted to relaxing under the sun. The clever layout of the cockpit guarantees comfort for all, whether at anchor or under way. The U-shaped bench seats can fold up or transform into a second sundeck, while wide swim platforms facilitate easy access to the water. Aboard the Cap Camarat 6.5 WA, everyone shares in the fun!</p></div>
             
         </div>
         <div class="col-sm-6 image-block no-padding d-sm">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/interior/52d8b08a47f855af2c19567984e32c50.jpg')"
-                 title="Cap Camarat 5.5 WA - Elegance, Performance and Safety">
+            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/594bf183ff40747f08acc4fc4c3352b1.jpg')"
+                 title="Cap Camarat 6.5 WA - Enjoyable Cruising for All">
             </div>
         </div>
     </div>
@@ -229,13 +222,13 @@ get_header();
                                                                 
                                                                             <div class="block">
         <div class="col-xs-12 col-sm-6 image-block no-padding">
-            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/interior/1b6c41edc0b32b20c12b7a26dfcfbdb6.jpg')"
-                 title="Cap Camarat 5.5 WA - Three Living Spaces, Three Atmospheres">
+            <div class="img-block" style="background-image:url('https://app.jeanneau.com/uploads/media/image/exterior/120aa17c10bb6e489ad2b02044d4dbc6.jpg')"
+                 title="Cap Camarat 6.5 WA - Your First Weekend Cruises">
             </div>
         </div>
         <div class="col-xs-12 col-sm-6 content-block even">
-            <h3>Three Living Spaces, Three Atmospheres</h3>
-            <div class="text-content"><p>The Walk Around version of the Cap Camarat 5.5 features a level surface on the forward deck for comfortable sunbathing. The cabin includes two berths, storage, and an optional chemical toi-let. At anchor, the cockpit can easily be transformed to create an inviting space, even with the engine raised, with its removable table, pivoting bolster seats, and sliding bench seating. The Cap Camarat 5.5 WA also offers the advantage of being easily transported for explor-ing new bodies of water.</p></div>
+            <h3>Your First Weekend Cruises</h3>
+            <div class="text-content"><p>Boasting, chic and contemporary profile, this boat features a surprising amount of space, with generous storage compartments and a spacious cabin, including two single berths which can be converted into a large double berth. An optional chemical toilet is offered. Designed to please the whole family, the Cap Camarat 6.5 WA also offers you the incomparable experience of spending a night onboard as a couple, along the coast of an island or a creek, away from the rest of the world.</p></div>
             
         </div>
     </div>
@@ -247,12 +240,12 @@ get_header();
     <h3 class="sr-only">Videos</h3>
                                         <div class="video-first">
                                                 
-    <div class="iframe-container" data-reference="xpkqvcTXTvI" data-type="model-main-video" data-provider="YouTube">
+    <div class="iframe-container" data-reference="QCacK4uIX1A" data-type="model-main-video" data-provider="YouTube">
 
         
             <iframe src=""
-                    data-src="https://www.youtube.com/embed/xpkqvcTXTvI?vq=hd1080"
-                    data-reference="xpkqvcTXTvI"
+                    data-src="https://www.youtube.com/embed/QCacK4uIX1A?vq=hd1080"
+                    data-reference="QCacK4uIX1A"
                     class="optanon-category-C0003"
                     frameborder="0"
                     allowfullscreen
@@ -261,9 +254,51 @@ get_header();
             </div>
 
                                     </div>
-                    
+                                                                                
         <div class="other-video">
-                                                </div>
+                                                                            <div class="video">
+                            
+    <div class="iframe-container" data-reference="O_hJwxAParE" data-type="model-other-video" data-provider="YouTube">
+
+        
+            <a href="https://www.youtube.com/watch?v=O_hJwxAParE"
+               data-reference="O_hJwxAParE"
+               class="js-additional-video">
+                <img src="https://img.youtube.com/vi/O_hJwxAParE/0.jpg" alt="Thumbnail">
+            </a>
+
+            </div>
+
+                    </div>
+                                                                <div class="video">
+                            
+    <div class="iframe-container" data-reference="A29Ma1qug6s" data-type="model-other-video" data-provider="YouTube">
+
+        
+            <a href="https://www.youtube.com/watch?v=A29Ma1qug6s"
+               data-reference="A29Ma1qug6s"
+               class="js-additional-video">
+                <img src="https://img.youtube.com/vi/A29Ma1qug6s/0.jpg" alt="Thumbnail">
+            </a>
+
+            </div>
+
+                    </div>
+                                                                <div class="video">
+                            
+    <div class="iframe-container" data-reference="xpkqvcTXTvI" data-type="model-other-video" data-provider="YouTube">
+
+        
+            <a href="https://www.youtube.com/watch?v=xpkqvcTXTvI"
+               data-reference="xpkqvcTXTvI"
+               class="js-additional-video">
+                <img src="https://img.youtube.com/vi/xpkqvcTXTvI/0.jpg" alt="Thumbnail">
+            </a>
+
+            </div>
+
+                    </div>
+                                    </div>
     </section>
         
                 
@@ -282,66 +317,33 @@ get_header();
 Views</a>
                                 </li>
                             
-                                                            <li class="nav-item">
-                                    <a class="nav-link js-link-interior" data-toggle="collapse"
-                                       href="#js-collapse-gallery-interior"
-                                       role="button" aria-expanded="false" data-parent="#gallery"
-                                       aria-controls="js-collapse-gallery-interior">Interior
-Views</a>
-                                </li>
                                                     </ul>
 
                                                     <div id="js-collapse-gallery-exterior" class="collapse in">
                                 <div class="gallery-exterior">
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/54760ef5e21e7a67e0374ce481f71190.jpg" class="gallery-show"
-                                               title="Cap Camarat 5.5 WA"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/261f64cf55bde15b6b9856c668b8fcb6.jpg" class="gallery-show"
+                                               title="Cap Camarat 6.5 WA"
                                                id="gallery-exterior_1">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/54760ef5e21e7a67e0374ce481f71190.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/54760ef5e21e7a67e0374ce481f71190.jpg"
-                                                     alt="Cap Camarat 5.5 WA │ Cap Camarat Walk Around of 5m │ Boat Moteurs JeanneauCap Camarat 5.5 WA 29365"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/261f64cf55bde15b6b9856c668b8fcb6.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/261f64cf55bde15b6b9856c668b8fcb6.jpg"
+                                                     alt="Cap Camarat 6.5 WA │ Cap Camarat Walk Around of 6m │ Boat Moteurs JeanneauCap Camarat 6.5 WA Série3 29368"/>
                                                 <div class="hover-image">
-                                                    <span>Cap Camarat 5.5 WA</span>
+                                                    <span>Cap Camarat 6.5 WA Série3</span>
                                                 </div>
                                             </a>
                                         </div>
                                                                                                                                                                                                                                                                                                                                     <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/535dd60f789654f48fdc0f728c0fb158.jpg" class="gallery-show"
-                                               title="Cap Camarat 5.5 WA"
+                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/a0c9e48402e3c8ab40a91a6469f8f3ee.jpg" class="gallery-show"
+                                               title="Cap Camarat 6.5 WA"
                                                id="gallery-exterior_2">
                                                 <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/535dd60f789654f48fdc0f728c0fb158.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/535dd60f789654f48fdc0f728c0fb158.jpg"
-                                                     alt="Cap Camarat 5.5 WA │ Cap Camarat Walk Around of 5m │ Boat Moteurs JeanneauCap Camarat 5.5 WA 29366"/>
+                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/a0c9e48402e3c8ab40a91a6469f8f3ee.jpg"
+                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/a0c9e48402e3c8ab40a91a6469f8f3ee.jpg"
+                                                     alt="Cap Camarat 6.5 WA │ Cap Camarat Walk Around of 6m │ Boat Moteurs JeanneauCap Camarat 6.5 WA Série3 29369"/>
                                                 <div class="hover-image">
-                                                    <span>Cap Camarat 5.5 WA</span>
-                                                </div>
-                                            </a>
-                                        </div>
-                                                                                                                                                                                                                                                                                                                                    <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/69157a01b3f3c458ba789c7a4b6d713c.jpg" class="gallery-show"
-                                               title="Cap Camarat 5.5 WA"
-                                               id="gallery-exterior_3">
-                                                <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/69157a01b3f3c458ba789c7a4b6d713c.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/69157a01b3f3c458ba789c7a4b6d713c.jpg"
-                                                     alt="Cap Camarat 5.5 WA │ Cap Camarat Walk Around of 5m │ Boat Moteurs Jeanneau 24184"/>
-                                                <div class="hover-image">
-                                                    <span></span>
-                                                </div>
-                                            </a>
-                                        </div>
-                                                                                                                                                                                                                                                                                                                                    <div class="gallery_item exterior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/exterior/hd/410f21703099035e0265a3bb9ae2caa5.jpg" class="gallery-show"
-                                               title="Cap Camarat 5.5 WA"
-                                               id="gallery-exterior_4">
-                                                <img class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/exterior/sd/410f21703099035e0265a3bb9ae2caa5.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/exterior/sd/410f21703099035e0265a3bb9ae2caa5.jpg"
-                                                     alt="Cap Camarat 5.5 WA │ Cap Camarat Walk Around of 5m │ Boat Moteurs Jeanneau 24185"/>
-                                                <div class="hover-image">
-                                                    <span></span>
+                                                    <span>Cap Camarat 6.5 WA Série3</span>
                                                 </div>
                                             </a>
                                         </div>
@@ -349,36 +351,6 @@ Views</a>
 
                                                             </div>
                         
-                                                    <div id="js-collapse-gallery-interior" class="collapse">
-                                <div class="gallery-interior">
-                                                                                                                                                                                                                                                                                                                                    <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/1b08b7638acf7ab3d864304418d4d278.jpg" class="gallery-show"
-                                               title="Cap Camarat 5.5 WA"
-                                               id="gallery-interior_1">
-                                                <img aria-hidden="true" class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/1b08b7638acf7ab3d864304418d4d278.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/1b08b7638acf7ab3d864304418d4d278.jpg"
-                                                     alt="base_alt Cap Camarat 5.5 WA 26725"/>
-                                                <div class="hover-image">
-                                                    <span>Cap Camarat 5.5 WA</span>
-                                                </div>
-                                            </a>
-                                        </div>
-                                                                                                                                                                                                                                                                                                                                    <div class="gallery_item interior paysage display">
-                                            <a href="https://app.jeanneau.com/uploads/media/image/interior/hd/f427f5621c2c6ba1856d6dc5c15074d6.jpg" class="gallery-show"
-                                               title="Cap Camarat 5.5 WA"
-                                               id="gallery-interior_2">
-                                                <img aria-hidden="true" class="lazy"
-                                                     src="https://app.jeanneau.com/uploads/media/image/interior/sd/f427f5621c2c6ba1856d6dc5c15074d6.jpg"
-                                                     data-src="https://app.jeanneau.com/uploads/media/image/interior/sd/f427f5621c2c6ba1856d6dc5c15074d6.jpg"
-                                                     alt="base_alt Cap Camarat 5.5 WA 26726"/>
-                                                <div class="hover-image">
-                                                    <span>Cap Camarat 5.5 WA</span>
-                                                </div>
-                                            </a>
-                                        </div>
-                                                                    </div>
-                                                            </div>
                                             </div>
                 </div>
             </section>
@@ -388,16 +360,6 @@ Views</a>
                 <h3>Architecture &amp; design</h3>
                 <div class="designers-row">
                                                                         <a class="designer"
-                               href="/jeanneau/designers/21-patrice-sarrazin">
-                                <div class="image">
-                                    <div class="lazy" data-bg="https://app.jeanneau.com/uploads/boat/designer/5773804e42f84.jpg"></div>
-                                </div>
-                                <div>
-                                    <div class="name">Patrice Sarrazin</div>
-                                    <div class="baseline">Sarrazin Design</div>
-                                                                    </div>
-                            </a>
-                                                                                                <a class="designer"
                                href="/jeanneau/designers">
                                 <div class="image">
                                     <div class="lazy" data-bg="https://app.jeanneau.com/uploads/boat/designer/6686bd866e08d356240663.png"></div>
@@ -405,6 +367,16 @@ Views</a>
                                 <div>
                                     <div class="name">Jeanneau design</div>
                                     <div class="baseline"></div>
+                                                                    </div>
+                            </a>
+                                                                                                <a class="designer"
+                               href="/jeanneau/designers/21-patrice-sarrazin">
+                                <div class="image">
+                                    <div class="lazy" data-bg="https://app.jeanneau.com/uploads/boat/designer/5773804e42f84.jpg"></div>
+                                </div>
+                                <div>
+                                    <div class="name">Patrice Sarrazin</div>
+                                    <div class="baseline">Sarrazin Design</div>
                                                                     </div>
                             </a>
                                                             </div>
@@ -419,18 +391,26 @@ Views</a>
                                                                             <div class="photos">
                                 <div id="js-slider-specifications">
                                                                             <div class="slide">
-                                            <a title="Cap Camarat 5.5 WA"
-                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/6c181ba65466dc13283edd0b7ea9c4ce.jpg">
-                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/6c181ba65466dc13283edd0b7ea9c4ce.jpg"
-                                                     alt="Cap Camarat 5.5 WA │ Cap Camarat Walk Around of 5m │ Boat Moteurs Jeanneau Cap Camarat 5.5 WA 26727"
+                                            <a title="Cap Camarat 6.5 WA"
+                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/ffe6db0050ef90c1fc6049d1f560db11.jpg">
+                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/ffe6db0050ef90c1fc6049d1f560db11.jpg"
+                                                     alt="Cap Camarat 6.5 WA │ Cap Camarat Walk Around of 6m │ Boat Moteurs Jeanneau  17209"
                                                      class="img-responsive">
                                             </a>
                                         </div>
                                                                             <div class="slide">
-                                            <a title="Cap Camarat 5.5 WA"
-                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/65becc2d9c8697d30a432441ed287e7c.jpg">
-                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/65becc2d9c8697d30a432441ed287e7c.jpg"
-                                                     alt="Cap Camarat 5.5 WA │ Cap Camarat Walk Around of 5m │ Boat Moteurs Jeanneau Cap Camarat 5.5 WA 29367"
+                                            <a title="Cap Camarat 6.5 WA"
+                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/11ff30fc4ef5852ed3de09712841e208.jpg">
+                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/11ff30fc4ef5852ed3de09712841e208.jpg"
+                                                     alt="Cap Camarat 6.5 WA │ Cap Camarat Walk Around of 6m │ Boat Moteurs Jeanneau  17210"
+                                                     class="img-responsive">
+                                            </a>
+                                        </div>
+                                                                            <div class="slide">
+                                            <a title="Cap Camarat 6.5 WA"
+                                               href="https://app.jeanneau.com/uploads/media/image/layout/hd/fe93615a274a470e821219bad7caded5.jpg">
+                                                <img src="https://app.jeanneau.com/uploads/media/image/layout/sd/fe93615a274a470e821219bad7caded5.jpg"
+                                                     alt="Cap Camarat 6.5 WA │ Cap Camarat Walk Around of 6m │ Boat Moteurs Jeanneau Cap Camarat 6.5 WA Série3 29370"
                                                      class="img-responsive">
                                             </a>
                                         </div>
@@ -442,42 +422,45 @@ Views</a>
                                                             <div class="value">
                                     <i class="icon icon-overall-length-powerboat"></i>
                                     <span class="title">Length overall</span>
-                                    <span class="val">5.48 m / 17&#039;12&quot;</span>
+                                    <span class="val">6.31 m / 20&#039;8&quot;</span>
                                 </div>
                                                                                         <div class="value">
                                     <i class="icon icon-hull-length-powerboat"></i>
                                     <span class="title">Hull length</span>
-                                    <span class="val">5.21 m / 17&#039;1&quot;</span>
+                                    <span class="val">6.11 m / 20&#039;1&quot;</span>
                                 </div>
                                                                                         <div class="value">
                                 <i class="icon icon-hull-beam"></i>
                                 <span class="title">Hull Beam</span>
-                                <span class="val">2.36 m / 7&#039;9&quot;</span>
-                                </div>                                                                                        <div class="value">
-                                    <i class="icon icon-keel-draught"></i>
-                                    <span class="title">
-                                                                              Standard Draft
-                                                                          </span>
-                                    <span class="val">0.45 m / 1&#039;6&quot;</span>
-                                </div>
-                                                                                        <div class="value">
+                                <span class="val">2.48 m / 8&#039;2&quot;</span>
+                                </div>                                                                                                                    <div class="value">
                                     <i class="icon icon-weight"></i>
                                     <span class="title">Weight</span>
-                                    <span class="val">800 kg / 1764 Lbs</span></div>
+                                    <span class="val">1200 kg / 2646 Lbs</span></div>
                                                                                                                                                                                                         <div class="value">
                                     <i class="icon icon-fuel-capacity"></i>
                                     <span class="title">Fuel capacity</span>
-                                    <span class="val">100 l / 26 US gal</span>
+                                    <span class="val">170 l / 45 US gal</span>
                                 </div>
-                                                                                                                                                <div class="value">
+                                                                                        <div class="value">
+                                    <i class="icon icon-water-capacity"></i>
+                                    <span class="title">Water capacity</span>
+                                    <span class="val">50 l / 13 US gal</span>
+                                </div>
+                                                                                        <div class="value">
+                                    <i class="icon icon-cabins"></i>
+                                    <span class="title">Cabins</span>
+                                    <span class="val">1</span>
+                                </div>
+                                                                                        <div class="value">
                                     <i class="icon icon-engines"></i>
                                     <span class="title">Available Engines</span>
-                                    <span class="val">120 HP / 88 KW</span>
+                                    <span class="val">200 CV (HP)</span>
                                 </div>
                                                                                         <div class="value">
                                     <i class="icon icon-ce-category"></i>
                                     <span class="title">CE Category</span>
-                                    <span class="val">C6
+                                    <span class="val">C8
                                         
                                         
                                         
@@ -516,20 +499,20 @@ Views</a>
                 </div>
             </section>
         
-        
+                           
                 <section class="other-models container-fluid">
                             <a id="lines" class="anchor"></a>
                 <div class="lines">
                     <h3>explore the range</h3>
                     <div class="row">
                                                                                                                                         <div class="col-sm-6 col-lg-4 line">
-                                                                                                                                    <a href="/boats/powerboat/7-cap-camarat-walk-around/624-cap-camarat-6-5-wa">
+                                                                                                                                    <a href="/boats/powerboat/7-cap-camarat-walk-around/10-cap-camarat-5-5-wa">
                                     <div role="presentation" class="image">
-                                        <img src="https://app.jeanneau.com/uploads/boat/shape/64f1acee7c14c350087293.png" alt="Cap Camarat 6.5 WA │ Cap Camarat Walk Around of 6m │ Boat Moteurs Jeanneau" class="img-responsive">
+                                        <img src="https://app.jeanneau.com/uploads/boat/shape/64f1acde61306473374249.png" alt="Cap Camarat 5.5 WA │ Cap Camarat Walk Around of 5m │ Boat Moteurs Jeanneau" class="img-responsive">
                                     </div>
-                                    <h4 class="name">Cap Camarat 6.5 WA</h4>
+                                    <h4 class="name">Cap Camarat 5.5 WA</h4>
                                                                             <div class="resume">
-                                            <p>A comfortable family boat</p>
+                                            <p>All of the Cap Camarat’s benefits combined</p>
                                         </div>
                                                                         <button class="btn btn-primary">See details</button>
                                 </a>
@@ -564,13 +547,15 @@ Views</a>
     </div>
 </main>
 
-
     <div id="cookieconsent-i18n"
          data-message="By continuing your visit on this website, you agree to the use of cookies to enhance your browsing experience and to generate website traffic statistics."
          data-dismiss="I AGREE"></div>
 
 
-    <script src="https://www.jeanneau.com/build/runtime.32cc791b.js" defer></script><script src="https://www.jeanneau.com/build/691.570663c4.js" defer></script><script src="https://www.jeanneau.com/build/268.9a434bd2.js" defer></script><script src="https://www.jeanneau.com/build/732.a73f4830.js" defer></script><script src="https://www.jeanneau.com/build/app.bab1e4dd.js" defer></script>
+    <script src="https://www.jeanneau.com/build/runtime.32cc791b.js" defer></script><script src="https://www.jeanneau.com/build/691.570663c4.js" defer></script><script src="https://www.jeanneau.com/build/268.9a434bd2.js" defer></script><script src="/build/732.a73f4830.js" defer></script><script src="https://www.jeanneau.com/build/app.bab1e4dd.js" defer></script>
 </body>
 </html>
-<?php get_footer(); ?>
+<?php
+
+get_footer();
+?>

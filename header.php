@@ -195,14 +195,9 @@
                                                                     <li><a href="#" aria-expanded="true" aria-controls="nav-43-Merry-Fisher-Sport" class="js-menu">MERRY FISHER SPORT</a></li>
                                                             </ul>
                         </li>
-<a class="resolve-wp" data-slug="sailboats" href="/jeanneau-lite-theme/page-sailboats.php">SAILBOATS</a>
                         <li>
-                            <ul>
-                                                                    <li><a href="#" aria-expanded="false" aria-controls="nav-2-Sun-Odyssey" class="js-menu">SUN ODYSSEY</a></li>
-                                                                    <li><a href="#" aria-expanded="false" aria-controls="nav-4-Jeanneau-Yachts" class="js-menu">JEANNEAU YACHTS</a></li>
-                                                                    <li><a href="#" aria-expanded="false" aria-controls="nav-1-Sun-Fast" class="js-menu">SUN FAST</a></li>
-                                                            </ul>
-                        </li>
+                
+                                    
                                         <li><a href="https://configurateur.jeanneau.com/en" class="" target="_blank">CONFIGURATOR</a></li>
                     <li><a class="resolve-wp" data-slug="location" >Location </a></li>
                     <li><div class="social-links" itemscope itemtype="http://schema.org/Organization"><link itemprop="url" href="https://www.jeanneau.com"><ul>
@@ -525,7 +520,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                                                            <a href="/boats/powerboat/5-cap-camarat-center-console/714-cap-camarat-9-0-cc-serie2">
+                                                                        <a class="resolve-wp" data-slug="714-cap-camarat-9-0-cc-serie2" href="/714-cap-camarat-9-0-cc-serie2">
                                             <div class="boat">
                                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/68766ca7d13e3438162822.png" alt="Cap Camarat 9.0 CC Serie2">
                                                                                                 <div>
@@ -536,7 +531,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                                                            <a href="/boats/powerboat/5-cap-camarat-center-console/681-cap-camarat-10-5-cc">
+                                                                           <a class="resolve-wp" data-slug="681-cap-camarat-10-5-cc" href="681-cap-camarat-10-5-cc">
                                             <div class="boat">
                                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/62bd5f3f6ac81712196835.png" alt="Cap Camarat 10.5 CC">
                                                                                                 <div>

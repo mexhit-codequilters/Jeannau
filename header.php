@@ -672,7 +672,7 @@
 
                                     <div class="line-models">
                         <div>
-                                                            <a href="/boats/powerboat/44-db-yachts/688-db-37-ib">
+<a class="resolve-wp" data-slug="688-db-37-ib" href="/688-db-37-ib">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/63ce49c67bb94071033115.png" alt="DB/37 IB">
                                                                                 <div>
@@ -684,7 +684,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/44-db-yachts/692-db-37-ob">
+<a class="resolve-wp" data-slug="692-db-37-ob" href="/692-db-37-ob">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/64fecd68cf830593237003.png" alt="DB/37 OB">
                                                                                 <div>
@@ -696,7 +696,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/44-db-yachts/677-db-43-ib">
+<a class="resolve-wp" data-slug="677-db-43-ib" href="/677-db-43-ib">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/628ddf2b1e2fa150629687.png" alt="DB/43 IB">
                                                                                 <div>
@@ -708,7 +708,7 @@
                                         </div>
                                     </div>
                                 </a>
-                                                            <a href="/boats/powerboat/44-db-yachts/676-db-43-ob">
+   <a class="resolve-wp" data-slug="676-db-43-ob" href="/676-db-43-ob">
                                     <div class="boat">
                                                                                     <img src="https://app.jeanneau.com/uploads/boat/shape/628ddf34ba370574877165.png" alt="DB/43 OB">
                                                                                 <div>
